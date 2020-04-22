@@ -200,3 +200,4 @@ data sciense
 https://github.com/academic/awesome-datascience
 
 https://github.com/orbitdb/orbit-db
+https://github.com/MrMimic/data-scientist-roadmap
