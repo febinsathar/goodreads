@@ -195,3 +195,4 @@ https://github.com/academic/awesome-datascience
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/openai/spinningup
+https://github.com/academic/awesome-datascience
