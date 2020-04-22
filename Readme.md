@@ -191,10 +191,12 @@ https://github.com/labuladong/fucking-algorithm
 https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/README.md
 https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch
 https://arpitbhayani.me/blogs/fsm
-https://github.com/academic/awesome-datascience
+
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/openai/spinningup
+
+data sciense
 https://github.com/academic/awesome-datascience
 
 https://github.com/orbitdb/orbit-db
