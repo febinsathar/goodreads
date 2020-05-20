@@ -205,3 +205,5 @@ https://github.com/MrMimic/data-scientist-roadmap
 https://github.com/AliaksandrSiarohin/first-order-model
 https://toc.cryptobook.us/
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/TheAlgorithms/Go
