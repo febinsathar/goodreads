@@ -1,3 +1,4 @@
 
 kali linux docker 
-docker pull kalilinux/kali-linux-docker
+docker pull kalilinux/kali-rolling
+docker run -t -i kalilinux/kali-rolling /bin/bash
