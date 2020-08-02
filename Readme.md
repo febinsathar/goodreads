@@ -1,3 +1,11 @@
+
+#journey
+https://github.com/jwasham/coding-interview-university#why-use-it
+https://github.com/labuladong/fucking-algorithm
+
+#book
+https://github.com/a10h-bot/awesome-algorithms-books/blob/master/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
+
 https://github.com/qiurunze123/miaosha
 https://github.com/donnemartin/system-design-primer/blob/master/README.md
 https://github.com/bmild/nerf

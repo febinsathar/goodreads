@@ -4,11 +4,36 @@
 package goodreads;
 
 public class App {
-    public String getGreeting() {
-        return "Hello world.";
+
+
+
+    public static void printArray(int[] arr) {
+        for ( int i =  0 ; i < arr . length; i ++ ) {
+            System.out.print(arr[i] + ",");
+        }
     }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+
+
+//        int[] myNum = {10, 20,5, 30, 40};
+//        int[] myNum = {10, 20, 30, 40};
+//        printArray( myNum);
+//        System.out.println("\n");
+//        printArray( ArrayList.reverse(myNum));
+
+        int[][] a = { { 1, 2, 3 }, { 3, 4, 5 } };
+        int[][] b = { { 1, 2 }, { 3, 4 },  { 5, 6 } };
+
+
+        System.out.println( a.length + " " + a[0].length);
+
+        try {
+            Matrix.multiply(a,b);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+//        new ArrayList().traverse(myNum);
+
     }
 }
