@@ -1,4 +1,6 @@
 
+https://github.com/bayandin/awesome-awesomeness
+
 #journey
 https://github.com/jwasham/coding-interview-university#why-use-it
 https://github.com/labuladong/fucking-algorithm
@@ -12,14 +14,66 @@ https://github.com/TheAlgorithms/Java
 # design
 https://github.com/iluwatar/java-design-patterns
 
+https://github.com/mrdbourke/machine-learning-roadmap
+
+# startup
+https://www.ycombinator.com/library
+
+
+#interview
+https://github.com/Advanced-Frontend/Daily-Interview-Question
+https://github.com/mission-peace/interview
+https://github.com/andreis/interview
+https://github.com/kdn251/interviews
+https://github.com/taizilongxu/interview_python
+https://github.com/jwasham/coding-interview-university
+https://github.com/ElemeFE/node-interview
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/checkcheckzz/system-design-interview
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+
+
+#algorithm
+https://github.com/TheAlgorithms/Javascript
+https://github.com/TheAlgorithms/Python
+https://github.com/algorithm-visualizer/algorithm-visualizer
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/keon/algorithms
+
+
+#security
+https://github.com/veeral-patel/how-to-secure-anything
+
+
+#system design
 https://github.com/qiurunze123/miaosha
 https://github.com/donnemartin/system-design-primer/blob/master/README.md
+
+#deep learning
 https://github.com/bmild/nerf
+https://github.com/dlunion/DBFace
+https://github.com/dennybritz/reinforcement-learning
+https://github.com/makcedward/nlp
+https://github.com/scutan90/DeepLearning-500-questions
+https://github.com/rasbt/python-machine-learning-book-2nd-edition
+https://github.com/AliaksandrSiarohin/first-order-model
+
+
+#data sciense
+https://github.com/academic/awesome-datascience
+https://github.com/MrMimic/data-scientist-roadmap
+
+
+#kubes
+https://github.com/helm/charts/tree/master/incubator
+
 https://github.com/hungtraan/FacebookBot
 http://interactivepython.org/runestone/static/pythonds/index.html
+https://github.com/getify/You-Dont-Know-JS
 
 https://github.com/tuvttran/project-based-learning
-https://github.com/dlunion/DBFace
+
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
@@ -120,17 +174,8 @@ Graph algo
  Neo4j
 Os concepts
  Recommendation system
-https://github.com/bayandin/awesome-awesomeness
-https://github.com/mission-peace/interview
- https://github.com/andreis/interview
-: https://github.com/kdn251/interviews
-https://github.com/taizilongxu/interview_python
-: https://github.com/jwasham/coding-interview-university
- https://github.com/ElemeFE/node-interview
- https://github.com/h5bp/Front-end-Developer-Interview-Questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-: https://github.com/checkcheckzz/system-design-interview
- https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+
+
 https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
  http://highscalability.com/
  https://www.interviewbit.com/
@@ -138,14 +183,8 @@ https://www.codingame.com/start
 https://www.codechef.com/
 https://codeforces.com/
 http://www.ardendertat.com/
-https://github.com/dennybritz/reinforcement-learning
-https://github.com/makcedward/nlp
-https://github.com/scutan90/DeepLearning-500-questions
-https://github.com/rasbt/python-machine-learning-book-2nd-edition
-https://github.com/TheAlgorithms/Python
-https://github.com/algorithm-visualizer/algorithm-visualizer
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/keon/algorithms
+
+
  https://github.com/azl397985856/leetcode
 https://github.com/trekhleb/homemade-machine-learning
  https://github.com/OpenGenus/cosmos
@@ -210,13 +249,10 @@ https://github.com/CorentinJ/Real-Time-Voice-Cloning
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/openai/spinningup
 
-data sciense
-https://github.com/academic/awesome-datascience
 
 https://github.com/orbitdb/orbit-db
-https://github.com/MrMimic/data-scientist-roadmap
 
-https://github.com/AliaksandrSiarohin/first-order-model
+
 https://toc.cryptobook.us/
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
