@@ -1,5 +1,12 @@
 
 https://github.com/bayandin/awesome-awesomeness
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://github.com/tuvttran/project-based-learning
+https://github.com/danistefanovic/build-your-own-x
+https://github.com/papers-we-love/papers-we-love
+
+#cs
+https://github.com/ossu/computer-science
 
 #journey
 https://github.com/jwasham/coding-interview-university#why-use-it
@@ -8,13 +15,11 @@ https://github.com/labuladong/fucking-algorithm
 #book
 https://github.com/a10h-bot/awesome-algorithms-books/blob/master/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
 
-https://github.com/careercup/CtCI-6th-Edition/tree/master/Java
-https://github.com/TheAlgorithms/Java
 
-# design
+# design patterns
 https://github.com/iluwatar/java-design-patterns
 
-https://github.com/mrdbourke/machine-learning-roadmap
+
 
 # startup
 https://www.ycombinator.com/library
@@ -32,15 +37,19 @@ https://github.com/h5bp/Front-end-Developer-Interview-Questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/checkcheckzz/system-design-interview
 https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+https://github.com/careercup/CtCI-6th-Edition/tree/master/Java
 
 
 #algorithm
+https://github.com/TheAlgorithms/Java
 https://github.com/TheAlgorithms/Javascript
 https://github.com/TheAlgorithms/Python
 https://github.com/algorithm-visualizer/algorithm-visualizer
 https://github.com/donnemartin/interactive-coding-challenges
 https://github.com/keon/algorithms
-
+https://github.com/labuladong/fucking-algorithm
+https://github.com/apachecn/awesome-algorithm
+https://github.com/TheAlgorithms/Go
 
 #security
 https://github.com/veeral-patel/how-to-secure-anything
@@ -50,7 +59,8 @@ https://github.com/veeral-patel/how-to-secure-anything
 https://github.com/qiurunze123/miaosha
 https://github.com/donnemartin/system-design-primer/blob/master/README.md
 
-#deep learning
+#deep learning & DS
+https://github.com/Dod-o/Statistical-Learning-Method_Code
 https://github.com/bmild/nerf
 https://github.com/dlunion/DBFace
 https://github.com/dennybritz/reinforcement-learning
@@ -58,26 +68,45 @@ https://github.com/makcedward/nlp
 https://github.com/scutan90/DeepLearning-500-questions
 https://github.com/rasbt/python-machine-learning-book-2nd-edition
 https://github.com/AliaksandrSiarohin/first-order-model
-
-
-#data sciense
+https://github.com/GokuMohandas/practicalAI
+http://introtodeeplearning.com/
+https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/README.md
+https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md
+https://github.com/abhat222/Data-Science--Cheat-Sheet
+https://github.com/google-research/google-research
+https://github.com/meijieru/crnn.pytorch
 https://github.com/academic/awesome-datascience
 https://github.com/MrMimic/data-scientist-roadmap
+https://github.com/mrdbourke/machine-learning-roadmap
+https://github.com/ageron/handson-ml2
+https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html
+http://yerevann.com/a-guide-to-deep-learning/
+https://github.com/google-research/google-research/tree/master/automl_zero
+https://github.com/microsoft/computervision-recipes
+https://github.com/openai/spinningup
+https://github.com/JaidedAI/EasyOCR
+https://github.com/PaddlePaddle/PaddleOCR
+https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/keon/awesome-nlp
+
+#bots
+https://github.com/hungtraan/FacebookBot
 
 
 #kubes
 https://github.com/helm/charts/tree/master/incubator
 
-https://github.com/hungtraan/FacebookBot
+
 http://interactivepython.org/runestone/static/pythonds/index.html
 https://github.com/getify/You-Dont-Know-JS
 
 https://github.com/tuvttran/project-based-learning
 
+#webrtc
+https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
 
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-
-https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html
+#stock
+https://github.com/SamPom100/UnusualVolumeDetector
 
 https://github.com/astorfi/TensorFlow-World
 https://github.com/Spandan-Madan/DeepLearningProject/blob/master/README.md
@@ -85,7 +114,6 @@ https://github.com/Spandan-Madan/DeepLearningProject/blob/master/README.md
 https://www.linkedin.com/pulse/anomaly-detection-time-series-data-using-machine-learning-gill-1?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB7jaIoLK4VF75RSFKuB%2F2g%3D%3D
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/openai/spinningup
-http://yerevann.com/a-guide-to-deep-learning/
 https://blog.floydhub.com/gans-story-so-far/
 https://github.com/kmario23/deep-learning-drizzle#tada-deep-learning-confetti_ball-balloon
 https://github.com/graykode/nlp-tutorial
@@ -101,7 +129,7 @@ https://github.com/andkret/Cookbook/blob/master/README.md
 https://github.com/0voice/interview_internal_reference
  https://github.com/pingcap/talent-plan
  https://github.com/abhat222/Data-Science--Cheat-Sheet
-https://github.com/GokuMohandas/practicalAI
+
 : https://www.algoexpert.io/
  https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
@@ -188,7 +216,7 @@ http://www.ardendertat.com/
  https://github.com/azl397985856/leetcode
 https://github.com/trekhleb/homemade-machine-learning
  https://github.com/OpenGenus/cosmos
-https://github.com/apachecn/awesome-algorithm
+
 https://github.com/OlafenwaMoses/ImageAI
 https://github.com/QuantConnect/Lean
  https://www.ossec.net/
@@ -216,16 +244,12 @@ https://diagrams.mingrammer.com/
 https://overreacted.io/a-complete-guide-to-useeffect/
 https://www.joisig.com/rules-software-startup-minimum-hassle
 [https://github.com/google/trax
-http://introtodeeplearning.com/
-https://github.com/microsoft/computervision-recipes
+
  https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
 
 https://github.com/ctgk/PRML
-https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md
-https://github.com/abhat222/Data-Science--Cheat-Sheet
-https://github.com/google-research/google-research
-https://github.com/meijieru/crnn.pytorch
-https://github.com/google-research/google-research/tree/master/automl_zero
+
+
 https://github.com/EvgenyKashin/stylegan2-distillation
 https://linux-kernel-labs.github.io/refs/heads/master/index.html
 https://github.com/ossu/computer-science
@@ -237,17 +261,15 @@ https://github.com/jetnew/COVID-Resource-Allocation-Simulator/blob/master/README
  https://gadm.org/download_country_v3.html
  https://cryptobook.nakov.com/
 https://www.causal.app/blog/forecasting-with-uncertainty
-https://github.com/labuladong/fucking-algorithm
-: https://github.com/danistefanovic/build-your-own-x
+
  https://github.com/jwasham/coding-interview-university
  https://github.com/satwikkansal/wtfpython
-https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/README.md
 https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch
 https://arpitbhayani.me/blogs/fsm
 
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-https://github.com/openai/spinningup
+
 
 
 https://github.com/orbitdb/orbit-db
@@ -256,4 +278,4 @@ https://github.com/orbitdb/orbit-db
 https://toc.cryptobook.us/
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
-https://github.com/TheAlgorithms/Go
+
