@@ -88,6 +88,7 @@ https://github.com/JaidedAI/EasyOCR
 https://github.com/PaddlePaddle/PaddleOCR
 https://github.com/jbhuang0604/awesome-computer-vision
 https://github.com/keon/awesome-nlp
+https://github.com/StanislasBertrand/RetinaFace-tf2
 
 #bots
 https://github.com/hungtraan/FacebookBot
@@ -281,5 +282,7 @@ https://github.com/orbitdb/orbit-db
 
 https://toc.cryptobook.us/
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+
 
 
