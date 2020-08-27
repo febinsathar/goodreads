@@ -114,9 +114,14 @@ https://www.linkedin.com/pulse/anomaly-detection-time-series-data-using-machine-
 https://github.com/DevashishPrasad/CascadeTabNet
 https://github.com/karpathy/minGPT
 https://github.com/AliaksandrSiarohin/first-order-model
+https://github.com/StanislasBertrand/RetinaFace-tf2
+https://github.com/astorfi/TensorFlow-World
+https://github.com/Spandan-Madan/DeepLearningProject/blob/master/README.md
+https://github.com/NVIDIA/flowtron
 
 #DS application
 https://github.com/nsfw-filter/nsfw-filter
+
 
 #bots
 https://github.com/hungtraan/FacebookBot
@@ -126,7 +131,14 @@ https://github.com/hungtraan/FacebookBot
 https://github.com/helm/charts/tree/master/incubator
 
 
+#neuro
+https://github.com/NeuromatchAcademy/course-content
+
+#paper
+https://github.com/KianiLab/Waskom_CurrBiol_2018
+
 #js
+https://github.com/goldbergyoni/nodebestpractices
 https://github.com/getify/You-Dont-Know-JS
 https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
@@ -158,6 +170,13 @@ https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
 
 #stock
 https://github.com/SamPom100/UnusualVolumeDetector
+
+
+
+
+#test
+https://github.com/intuit/karate
+
 
 
 #shell
@@ -330,5 +349,7 @@ https://www.causal.app/blog/forecasting-with-uncertainty
 
 https://toc.cryptobook.us/
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+
 
 
