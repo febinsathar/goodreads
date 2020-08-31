@@ -295,7 +295,8 @@ http://highscalability.com/
 
 
 #company tech blogs
- -  https://bytes.swiggy.com/?gi=208205a7cf5e
+ - https://bytes.swiggy.com/?gi=208205a7cf5e
+ - https://eng.uber.com/
 
 
 #ui
@@ -358,7 +359,7 @@ polyfills..
 
 
 https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw
- https://eng.uber.com/
+
  type of cache
 Google calender
 min maz
