@@ -86,10 +86,11 @@
 
 
 #system design
-https://github.com/qiurunze123/miaosha
-https://github.com/donnemartin/system-design-primer/blob/master/README.md
-http://highscalability.com/
- https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
+ - https://github.com/qiurunze123/miaosha
+ - https://github.com/donnemartin/system-design-primer/blob/master/README.md
+ - http://highscalability.com/
+ - https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
+ - https://aosabook.org/en/index.html
 
 
 #deep learning & DS
