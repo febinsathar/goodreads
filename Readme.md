@@ -1,6 +1,10 @@
 #free
  - https://github.com/ripienaar/free-for-dev
 
+#ideas
+ - https://github.com/NirantK/awesome-project-ideas
+ - https://github.com/EthicalML/awesome-production-machine-learning
+
 # general
  - https://github.com/bayandin/awesome-awesomeness
  - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
@@ -58,6 +62,7 @@
  - https://github.com/careercup/CtCI-6th-Edition/tree/master/Java
  - https://github.com/0voice/interview_internal_reference
  - https://github.com/hoanhan101/algo/blob/master/README.md
+ - https://github.com/MysteryVaibhav/leetcode_company_wise_questions
 
 
 #algorithm
@@ -77,13 +82,15 @@
  - https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf
  - https://github.com/azl397985856/leetcode
  - https://github.com/OpenGenus/cosmos
-
+ - https://github.com/williamfiset/Algorithms
 
 #security
  - https://github.com/veeral-patel/how-to-secure-anything
  - https://cve.mitre.org/cve/
 
 
+# computational thinking
+ - https://github.com/mitmath/18S191 (https://mitmath.github.io/18S191/Fall20/)
 
 #system design
  - https://github.com/qiurunze123/miaosha
@@ -91,9 +98,13 @@
  - http://highscalability.com/
  - https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
  - https://aosabook.org/en/index.html
+ - https://github.com/prasadgujar/low-level-design-primer
 
 
 #deep learning & DS
+ - https://github.com/mhagiwara/100-nlp-papers
+ - https://github.com/rasbt/deeplearning-models
+ - https://github.com/datastacktv/data-engineer-roadmap
  - https://github.com/andkret/Cookbook/blob/master/README.md
  - https://github.com/bmild/nerf
  - https://github.com/Dod-o/Statistical-Learning-Method_Code
@@ -156,7 +167,10 @@
  - https://nanonets.com/blog/table-extraction-deep-learning/
  - https://nanonets.com/blog/receipt-ocr/
  - https://docs.google.com/spreadsheets/d/1ehKtQeuZKnE9R0JUFuRsV6B82p9KYkLKF7cMA7nH2cA/htmlview?usp=sharing&sle=true
-
+ - https://learning-at-home.github.io/
+ - https://github.com/mml-book/mml-book.github.io
+ - https://github.com/eugeneyan/applied-ml
+ 
 #DS application
  - https://github.com/nsfw-filter/nsfw-filter
 
@@ -167,10 +181,14 @@
 
 #kubes
  - https://github.com/helm/charts/tree/master/incubator
+ - https://k8syaml.com/
 
 
 #spark
  - https://github.com/databricks/LearningSparkV2
+ 
+#flink
+ - https://github.com/zhisheng17/flink-learning
 
 #finance
  - https://github.com/hudson-and-thames/mlfinlab
@@ -185,6 +203,7 @@
  - https://github.com/KianiLab/Waskom_CurrBiol_2018
 
 #js
+ - https://www.30secondsofcode.org
  - https://github.com/ryanmcdermott/clean-code-javascript
  - https://github.com/elsewhencode/project-guidelines
  - https://github.com/goldbergyoni/nodebestpractices
@@ -193,8 +212,13 @@
  - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 
 
+#frontend
+ - https://github.com/kbrsh/moon
+
 #python
  - https://github.com/ethereum/lahja
+ - https://github.com/30-seconds/30-seconds-of-code
+ - https://github.com/michalc/asyncio-buffered-pipeline
 
 
 #database
@@ -225,6 +249,7 @@
 
 #stock
  - https://github.com/SamPom100/UnusualVolumeDetector
+ - https://github.com/tradytics/surpriver
 
 
 
@@ -259,6 +284,7 @@
  - https://toc.cryptobook.us/
  - https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
  - https://cryptobook.nakov.com/
+ - https://github.com/Ciphey/Ciphey
 
 
 
@@ -275,7 +301,9 @@
  - https://www.codechef.com/
  - https://codeforces.com/
  - http://www.ardendertat.com/
-
+ - https://www.hackerearth.com/
+ - educative.io
+ - www.spoj.com
 
 #sre
  - https://landing.google.com/sre/books/
@@ -303,6 +331,7 @@
 #ui
  - https://overreacted.io/a-complete-guide-to-useeffect/
  - https://itnext.io/react-native-how-to-handle-an-app-with-both-pre-androidx-and-androidx-dependencies-rn60-bf4df7ea0dd2
+ - https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI
 
 
 #youtube
@@ -311,8 +340,18 @@
  - gauravsen
  - tusharroy
  - abdulbari
+ 
+ 
+#problems
+ - https://www.spoj.com/problems/AGGRCOW/
 
- trees
+
+#crpto
+ - https://github.com/Uniswap/uniswap-interface
+ 
+ 
+sring
+trees
 linked list
 stack & qeue
 bfs dfs
@@ -351,11 +390,10 @@ Symmetric vs assymetric key
 Load balancer L4 vs L7
 CDNs vs Edge
 Bloom filter & count-min sketch
-Paxos - 
-Consensus over distributed host…
-design patterns
-educative.io
+Paxos
+Consensus over distributed host
 polyfills..
+disjoint set union
  
 
 
@@ -381,6 +419,7 @@ Collation detection
 Dust partition algo
 strategy patterns
 honey pot url
+backtracking
 
 
 
