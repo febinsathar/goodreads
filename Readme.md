@@ -1,3 +1,24 @@
+#newsleters
+ - https://data4sci.com/newsletter
+ - https://news.ycombinator.com/
+ - https://github.com/trending
+ - https://www.datasciencecentral.com/
+
+#math
+ - https://yurichev.com/writings/Math-for-programmers.pdf
+
+#basics of programming (novice)
+ - https://htdp.org/2018-01-06/Book/part_one.html
+
+#awesome list
+ - https://github.com/sindresorhus/awesome
+ - https://github.com/bayandin/awesome-awesomeness
+
+
+#probablity
+ - https://projects.iq.harvard.edu/stat110/home
+ - http://data4sci.com/landing/probability
+ 
 #free
  - https://github.com/ripienaar/free-for-dev
 
@@ -6,7 +27,6 @@
  - https://github.com/EthicalML/awesome-production-machine-learning
 
 # general
- - https://github.com/bayandin/awesome-awesomeness
  - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
  - https://github.com/tuvttran/project-based-learning
  - https://github.com/danistefanovic/build-your-own-x
@@ -25,7 +45,6 @@
 #cs
  - https://github.com/ossu/computer-science
  - https://github.com/ForrestKnight/open-source-cs-python
- - https://github.com/ossu/computer-science
 
 
 #journey
@@ -46,6 +65,7 @@
 
 #go
  - https://github.com/hoanhan101/ultimate-go
+ - https://github.com/avelino/awesome-go
 
 #interview
  - https://github.com/MaximAbramchuck/awesome-interview-questions
@@ -102,6 +122,8 @@
 
 
 #deep learning & DS
+ - https://dafriedman97.github.io/mlbook/content/introduction.html
+ - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
  - https://github.com/mhagiwara/100-nlp-papers
  - https://github.com/rasbt/deeplearning-models
  - https://github.com/datastacktv/data-engineer-roadmap
@@ -170,6 +192,10 @@
  - https://learning-at-home.github.io/
  - https://github.com/mml-book/mml-book.github.io
  - https://github.com/eugeneyan/applied-ml
+ - https://github.com/matterport/Mask_RCNN
+ - https://github.com/snakers4/silero-models
+ - https://github.com/microsoft/DeepSpeed
+ 
  
 #DS application
  - https://github.com/nsfw-filter/nsfw-filter
@@ -201,6 +227,7 @@
 
 #paper
  - https://github.com/KianiLab/Waskom_CurrBiol_2018
+ - https://github.com/papers-we-love/papers-we-love
 
 #js
  - https://www.30secondsofcode.org
@@ -265,7 +292,9 @@
 
 #hacking
  - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
-
+ - https://github.com/swisskyrepo/PayloadsAllTheThings
+ - https://github.com/Hack-with-Github/Awesome-Hacking
+ 
 #kubernetes
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
  - https://github.com/ContainerSolutions/kubernetes-examples
@@ -275,10 +304,12 @@
  - https://github.com/satwikkansal/wtfpython
  
 #aws
-- https://github.com/alozano-77/AWS-SAA-C02-Course
+ - https://github.com/alozano-77/AWS-SAA-C02-Course
  
 #go
-- https://github.com/hoanhan101/ultimate-go
+ - https://github.com/hoanhan101/ultimate-go
+ - https://github.com/campoy/justforfunc
+ - https://github.com/campoy/go-tooling-workshop
 
 #cryptography
  - https://toc.cryptobook.us/
