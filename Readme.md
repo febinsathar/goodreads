@@ -46,6 +46,7 @@
  - https://getworm.com/
  
  
+
 # Human knowledge
  - https://github.com/emijrp/all-human-knowledge
  - https://julian.digital/2020/09/25/is-this-real-life/
@@ -140,6 +141,7 @@
  - https://github.com/shuaibiyy/awesome-terraform
  - https://github.com/kahun/awesome-sysadmin
  - https://github.com/networktocode/awesome-network-automation
+ - https://landing.google.com/sre/books/
  
 # design patterns
  - https://github.com/iluwatar/java-design-patterns
@@ -207,6 +209,7 @@
 # Security
  - https://github.com/veeral-patel/how-to-secure-anything
  - https://cve.mitre.org/cve/
+ - https://github.com/zer0yu/Awesome-CobaltStrike
 
 
 # Computational thinking
@@ -337,6 +340,9 @@
  - https://github.com/hudson-and-thames/mlfinlab
  - https://github.com/QuantConnect/Lean
  - https://github.com/wilsonfreitas/awesome-quant
+ 
+# ios
+ - https://github.com/vsouza/awesome-ios
 
 # frontend
  - https://github.com/dypsilon/frontend-dev-bookmarks
@@ -513,8 +519,6 @@
  - educative.io
  - www.spoj.com
 
-# sre
- - https://landing.google.com/sre/books/
 
 # scala
  - https://github.com/lauris/awesome-scala
@@ -613,6 +617,8 @@
  
 # nodejs 
   - https://github.com/bnb/awesome-awesome-nodejs
+  - https://github.com/sindresorhus/awesome-nodejs
+  - https://github.com/bcoe/awesome-cross-platform-nodejs#readme
  
 # webpack
  - https://github.com/webpack-contrib/awesome-webpack
@@ -655,6 +661,7 @@
 # iot
  - https://github.com/HQarroum/awesome-iot
  - https://github.com/nebgnahz/awesome-iot-hacks
+ - https://github.com/weblancaster/awesome-IoT-hybrid
  
 # Editors
  - https://github.com/mehcode/awesome-atom
