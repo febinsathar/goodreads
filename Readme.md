@@ -1,8 +1,26 @@
+#human knowledge
+ - https://github.com/emijrp/all-human-knowledge
+ 
+# community
+ - https://github.com/phpearth/awesome-community
+ 
+# sciense
+ - https://github.com/Hunter-Github/awesome-space-books
+ - https://github.com/elburz/awesome-space
+ - https://github.com/ipudu/awesome-molecular-dynamics
+ - https://github.com/tilde-lab/awesome-materials-informatics
+
 #newsleters
  - https://data4sci.com/newsletter
  - https://news.ycombinator.com/
  - https://github.com/trending
  - https://www.datasciencecentral.com/
+
+#stack
+ - https://github.com/stackshareio/awesome-stacks
+ 
+# history
+ - https://github.com/watson/awesome-computer-history
 
 #math
  - https://yurichev.com/writings/Math-for-programmers.pdf
@@ -66,6 +84,8 @@
 #devops
  - https://github.com/n1trux/awesome-sysadmin
  - https://github.com/dastergon/awesome-sre
+ - https://github.com/shuaibiyy/awesome-terraform
+ - https://github.com/kahun/awesome-sysadmin
  
 # design patterns
  - https://github.com/iluwatar/java-design-patterns
@@ -78,6 +98,7 @@
  - https://www.ycombinator.com/library
  - https://www.joisig.com/rules-software-startup-minimum-hassle
  - https://github.com/mmccaff/PlacesToPostYourStartup
+ - https://github.com/dakshshah96/awesome-startup-credits
 
 #go
  - https://github.com/hoanhan101/ultimate-go
@@ -225,6 +246,14 @@
  - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
  - https://github.com/src-d/awesome-machine-learning-on-source-code
  - https://github.com/r0f1/datascience
+ - https://github.com/jphall663/awesome-machine-learning-interpretability
+ - https://github.com/benedekrozemberczki/awesome-community-detection
+ - https://github.com/benedekrozemberczki/awesome-decision-tree-papers
+ - https://github.com/benedekrozemberczki/awesome-fraud-detection-papers
+ - https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers
+ - https://github.com/benedekrozemberczki/awesome-graph-classification
+ - https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers
+ - https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
  
  
 #DS application
@@ -271,12 +300,21 @@
  - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
  - https://github.com/sindresorhus/awesome-npm
  - https://github.com/cezaraugusto/You-Dont-Know-JS
+ - https://github.com/micromata/awesome-javascript-learning
+ - https://github.com/sorrycc/awesome-javascript
  
 #web-dev
  - https://github.com/davidsonfellipe/awesome-wpo
  - https://github.com/ChromeDevTools/awesome-chrome-devtools
+ - https://github.com/marcobiedermann/search-engine-optimization
+ 
 
-
+# julia
+ - https://github.com/melvin0008/awesome-julia
+ 
+# perl
+ - https://github.com/mackee/awesome-perl
+ 
 #java
  - https://github.com/akullpp/awesome-java
  - https://github.com/Vedenin/useful-java-links
@@ -292,17 +330,22 @@
  - https://github.com/30-seconds/30-seconds-of-code
  - https://github.com/michalc/asyncio-buffered-pipeline
  - https://github.com/humiaozuzu/awesome-flask
+ - https://github.com/vinta/awesome-python
 
 
 #database
+ - https://github.com/pingcap/awesome-database-learning
  - https://github.com/pingcap/talent-plan
  - https://github.com/orbitdb/orbit-db
  - http://www.vldb.org/pvldb/vol13/p3181-adams.pdf
  - https://github.com/pingcap/talent-plan
+ - https://github.com/ramnes/awesome-mongodb
  
 #big data
  - https://github.com/taosdata/TDengine
  - https://github.com/onurakpolat/awesome-bigdata
+ - https://github.com/okhosting/awesome-storage/
+ - https://github.com/youngwookim/awesome-hadoop
  
 #grpc
  - https://github.com/grpc-ecosystem/awesome-grpc
@@ -347,6 +390,10 @@
  - https://github.com/enaqx/awesome-pentest
  - https://github.com/carpedm20/awesome-hacking
  - https://github.com/hslatman/awesome-threat-intelligence
+ - https://github.com/coreb1t/awesome-pentest-cheat-sheets
+ - https://github.com/sbilly/awesome-security
+ - https://github.com/onlurking/awesome-infosec
+ - https://github.com/qazbnm456/awesome-web-security
  
 #kubernetes
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
@@ -374,11 +421,15 @@
 # cryptocurrency
  - https://github.com/Zheaoli/awesome-coins
  - https://github.com/Xel/Blockchain-stuff
+ - https://github.com/kasketis/awesome-cryptocurrencies
 
 # crawler
  - https://github.com/BruceDone/awesome-crawler
  - https://github.com/lorien/awesome-web-scraping
 
+# data
+ - https://github.com/emijrp/awesome-opendata
+ - https://github.com/awesomedata/awesome-public-datasets
 
 # tips
  - https://hakibenita.com/fast-load-data-python-postgresql
@@ -416,6 +467,7 @@
 # game-dev
  - http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/
  - https://github.com/ellisonleao/magictools
+ - https://github.com/godotengine/awesome-godot
 
 
 # company tech blogs
@@ -425,6 +477,7 @@
 # react
  - https://github.com/brillout/awesome-react-components
  - https://github.com/xgrommx/awesome-redux
+ - https://github.com/enaqx/awesome-react
 
 # ui
  - https://overreacted.io/a-complete-guide-to-useeffect/
@@ -453,6 +506,8 @@
  - abdulbari
  - https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw
 
+# chatbot
+ - https://github.com/fendouai/Awesome-Chatbot
  
  
 #problems
@@ -476,104 +531,67 @@
 #streaming
  - https://github.com/bnb/awesome-developer-streams
  
+# os 
+ - https://github.com/jubalh/awesome-os
  
-#dd
+# dd
  - https://github.com/heynickc/awesome-ddd
  
-#web-assembly
+# web-assembly
  - https://github.com/mbasso/awesome-wasm
  
-#coding-style
+# coding-style
  - https://github.com/Kristories/awesome-guidelines
  
  
-#webpack
+# webpack
  - https://github.com/webpack-contrib/awesome-webpack
  
-#code review
+# code review
  - https://github.com/joho/awesome-code-review
  
-#management
+# management
  - https://github.com/LappleApple/awesome-leading-and-managing
  
-#electronics
+# electronics
  - https://github.com/kitspace/awesome-electronics
  
+# C
+ - https://github.com/aleksandar-todorovic/awesome-c
+ - https://notabug.org/koz.ross/awesome-c
  
-# unsorted
-sring
-trees
-linked list
-stack & qeue
-bfs dfs
-back tracking
-greedy, dp
-trie, topoligical sort
-heap
-bit manipulation
-merge sorting?
-recurcion
-Vertical vs horizontal scaling
-CAP therom
-ACID vs BASE
-Partinioning vs Sharding data
-Consistent hashing
-Optimistic vs pessimistic locking
-Strong vs eventual consistency
-Relational db vs nosql
-Types of nosql
-Key value
-Wide coloumn
-Document based
-Graph based
-Data center/ racks/ hosts
-Caching
-Cpu/ memory/ hardware/ network bandwidth
-Random vs sequential read/write on disk
-Http vs http2 vs websockets
-Tcp/ip model
-Ipv4 vs ipv6
-Tcp vs udp
-DNS lookup
-Https vs TLS
-Public key infrastructure vs certificate authority
-Symmetric vs assymetric key
-Load balancer L4 vs L7
-CDNs vs Edge
-Bloom filter & count-min sketch
-Paxos
-Consensus over distributed host
-polyfills..
-disjoint set union
+# C++ 
+ - https://github.com/fffaraz/awesome-cpp
  
-
-
-
- type of cache
-Google calender
-min maz
-alpha beta pruning
- read write per db
- how to improve it mysql / postgres /cassandra / hbase/ oracle : hbase/ redshift
-redis
-dynamodb
-Inverted index
-Elastic search
-Log4j
-Distributed key value
-Graph algo
-Neo4j
-Os concepts
-Recommendation system
-Collation detection
-Dust partition algo
-strategy patterns
-honey pot url
-backtracking
-
-
-
+# webGL
+ - https://github.com/luruke/awesome-casestudy
  
+# elixar
+ - https://github.com/h4cc/awesome-elixir
+ 
+# GIS
+ - https://github.com/sshuair/awesome-gis
+ 
+# apps
+ - https://github.com/unicodeveloper/awesome-opensource-apps
+ 
+#shell
+ - https://github.com/alebcay/awesome-shell
+ 
+# rest
+ - https://github.com/marmelab/awesome-rest
+ 
+# iot
+ - https://github.com/HQarroum/awesome-iot
+ 
+# Editors
+ - https://github.com/mehcode/awesome-atom
+ - https://github.com/emacs-tw/awesome-emacs
+ - https://github.com/akrawchyk/awesome-vim
+ - https://github.com/viatsko/awesome-vscode
+ 
+# browser
+ - https://github.com/Hunter-Github/evil-and-not-wholly-awesome-firefox 
 
 
 

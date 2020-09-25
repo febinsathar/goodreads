@@ -1,3 +1,75 @@
-https://www.bigocheatsheet.com/
+# unsorted
+sring
+trees
+linked list
+stack & qeue
+bfs dfs
+back tracking
+greedy, dp
+trie, topoligical sort
+heap
+bit manipulation
+merge sorting?
+recurcion
+Vertical vs horizontal scaling
+CAP therom
+ACID vs BASE
+Partinioning vs Sharding data
+Consistent hashing
+Optimistic vs pessimistic locking
+Strong vs eventual consistency
+Relational db vs nosql
+Types of nosql
+Key value
+Wide coloumn
+Document based
+Graph based
+Data center/ racks/ hosts
+Caching
+Cpu/ memory/ hardware/ network bandwidth
+Random vs sequential read/write on disk
+Http vs http2 vs websockets
+Tcp/ip model
+Ipv4 vs ipv6
+Tcp vs udp
+DNS lookup
+Https vs TLS
+Public key infrastructure vs certificate authority
+Symmetric vs assymetric key
+Load balancer L4 vs L7
+CDNs vs Edge
+Bloom filter & count-min sketch
+Paxos
+Consensus over distributed host
+polyfills..
+disjoint set union
 
-https://www.topcoder.com/
+
+
+
+ type of cache
+Google calender
+min maz
+alpha beta pruning
+ read write per db
+ how to improve it mysql / postgres /cassandra / hbase/ oracle : hbase/ redshift
+redis
+dynamodb
+Inverted index
+Elastic search
+Log4j
+Distributed key value
+Graph algo
+Neo4j
+Os concepts
+Recommendation system
+Collation detection
+Dust partition algo
+strategy patterns
+honey pot url
+backtracking
+
+
+
+
+
