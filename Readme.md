@@ -1,5 +1,54 @@
+# Newsleters
+ - https://data4sci.com/newsletter
+ - https://news.ycombinator.com/
+ - https://github.com/trending
+ - https://www.datasciencecentral.com/
+ - https://indiehackers.com/
+ - https://betalist.com/
+ - https://growthhackers.com/posts
+ - https://startupsgalaxy.com/en
+ - https://webdesignernews.com
+ - https://betapage.co
+ - https://bootstrappers.io/
+ - https://startupbase.io
+ - http://designernews.co/
+ - https://reddit.com/r/Startups/
+ - https://reddit.com/r/Indiebiz/
+ - https://reddit.com/r/Growmybusiness/
+ - https://reddit.com/r/Roastmystartup/
+ - https://reddit.com/r/SideProject/
+ - https://reddit.com/r/Design_Critiques/
+ - https://reddit.com/r/Entrepreneur/
+ - https://reddit.com/r/Alphaandbetausers/
+ - https://reddit.com/r/IMadethis/
+ - https://reddit.com/r/Smallbusiness/
+ - https://reddit.com/r/sideproject/
+ - https://reddit.com/r/launchpages/
+ - https://thestartuppitch.com/
+ - https://techpluto.com/
+ - https://startuplift.com/
+ 
+ 
+ 
+# new startup list finding platform
+ - https://www.ycombinator.com/library
+ - https://sidebar.io/
+ - https://geekwire.com/
+ - https://startups.co.uk/
+ - https://www.springwise.com/
+ - https://inc42.com/
+ - https://killerstartups.com/
+ - https://startupstash.com/
+ - https://uplabs.com/
+ - https://betabound.com/
+ - https://www.snapmunk.com/
+ - https://www.remote.tools/
+ - https://getworm.com/
+ 
+ 
 #human knowledge
  - https://github.com/emijrp/all-human-knowledge
+ - https://julian.digital/2020/09/25/is-this-real-life/
 
 # jobs
  - https://github.com/t9tio/open-source-jobs
@@ -13,11 +62,7 @@
  - https://github.com/ipudu/awesome-molecular-dynamics
  - https://github.com/tilde-lab/awesome-materials-informatics
 
-# Newsleters
- - https://data4sci.com/newsletter
- - https://news.ycombinator.com/
- - https://github.com/trending
- - https://www.datasciencecentral.com/
+
 
 # Stack
  - https://github.com/stackshareio/awesome-stacks
@@ -105,7 +150,7 @@
  - https://github.com/teoga/awesome-product-design
 
 # startup
- - https://www.ycombinator.com/library
+ - https://www.remote.tools/
  - https://www.joisig.com/rules-software-startup-minimum-hassle
  - https://github.com/mmccaff/PlacesToPostYourStartup
  - https://github.com/dakshshah96/awesome-startup-credits
@@ -271,6 +316,7 @@
  - https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
  - https://github.com/fendouai/Awesome-TensorFlow-Chinese
  - https://github.com/metrofun/machine-learning-surveys
+ - https://github.com/hoya012/awesome-anomaly-detection
  
 # DS application
  - https://github.com/nsfw-filter/nsfw-filter
@@ -319,6 +365,7 @@
  - https://github.com/davidsonfellipe/awesome-wpo
  - https://github.com/ChromeDevTools/awesome-chrome-devtools
  - https://github.com/marcobiedermann/search-engine-optimization
+ - https://webdesign-inspiration.com/
  
 
 # julia
@@ -353,6 +400,7 @@
  - http://www.vldb.org/pvldb/vol13/p3181-adams.pdf
  - https://github.com/pingcap/talent-plan
  - https://github.com/ramnes/awesome-mongodb
+ - https://thedataguy.in/internals-of-google-cloud-spanner/
  
 # big data
  - https://github.com/taosdata/TDengine
@@ -360,6 +408,9 @@
  - https://github.com/okhosting/awesome-storage/
  - https://github.com/youngwookim/awesome-hadoop
  - https://github.com/rShetty/awesome-distributed-systems
+  - https://github.com/heathermiller/dist-prog-book
+  - https://medium.com/@hydraconference/the-big-interview-with-martin-kleppmann-figuring-out-the-future-of-distributed-data-systems-28a680d99ae6
+ 
  
 # grpc
  - https://github.com/grpc-ecosystem/awesome-grpc
@@ -367,12 +418,6 @@
 
 # data uscase
  - https://github.com/jetnew/COVID-Resource-Allocation-Simulator/blob/master/README.md
-
-
-
-#distributive
- - https://github.com/heathermiller/dist-prog-book
- - https://medium.com/@hydraconference/the-big-interview-with-martin-kleppmann-figuring-out-the-future-of-distributed-data-systems-28a680d99ae6
 
 
 
@@ -428,6 +473,7 @@
  - https://github.com/campoy/justforfunc
  - https://github.com/campoy/go-tooling-workshop
  - https://github.com/hyper0x/awesome-go-China
+ - https://github.com/jiujuan/go-collection
 
 # cryptography
  - https://toc.cryptobook.us/
@@ -435,6 +481,7 @@
  - https://cryptobook.nakov.com/
  - https://github.com/Ciphey/Ciphey
  - https://github.com/sobolevn/awesome-cryptography
+ - https://github.com/pFarb/awesome-crypto-papers
  
 # cryptocurrency
  - https://github.com/Zheaoli/awesome-coins
@@ -535,21 +582,21 @@
  - https://www.spoj.com/problems/AGGRCOW/
 
 
-#crpto
+# crpto
  - https://github.com/Uniswap/uniswap-interface
  
  
-#docker
+# docker
  - https://github.com/veggiemonk/awesome-docker
  - https://github.com/docker/awesome-compose
  
-#graphql
+# graphql
  - https://github.com/chentsulin/awesome-graphql
  
-#raspberry pi
+# raspberry pi
  - https://github.com/thibmaek/awesome-raspberry-pi
  
-#streaming
+# streaming
  - https://github.com/bnb/awesome-developer-streams
  
 # os 
@@ -646,6 +693,9 @@
  
 # Space
  - https://github.com/orbitalindex/awesome-space
+ 
+# elastic search
+ - https://medium.com/hipages-engineering/scaling-elasticsearch-b63fa400ee9e
 
 
 
