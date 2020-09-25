@@ -1,4 +1,4 @@
-# Newsleters
+# Newsletters
  - https://data4sci.com/newsletter
  - https://news.ycombinator.com/
  - https://github.com/trending
