@@ -46,7 +46,7 @@
  - https://getworm.com/
  
  
-#human knowledge
+# Human knowledge
  - https://github.com/emijrp/all-human-knowledge
  - https://julian.digital/2020/09/25/is-this-real-life/
 
@@ -322,7 +322,7 @@
  - https://github.com/nsfw-filter/nsfw-filter
 
 
-#bots
+# bots
  - https://github.com/hungtraan/FacebookBot
 
 
@@ -374,14 +374,14 @@
 # perl
  - https://github.com/mackee/awesome-perl
  
-#java
+# java
  - https://github.com/akullpp/awesome-java
  - https://github.com/Vedenin/useful-java-links
  
-#spring-boot
+# spring-boot
  - https://github.com/ityouknow/awesome-spring-boot
 
-#frontend
+# frontend
  - https://github.com/kbrsh/moon
 
 # python
@@ -551,7 +551,7 @@
  - https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI
  - https://github.com/terkelg/awesome-creative-coding
 
-#android
+# android
  - https://github.com/Freelander/Android_Data
  - https://github.com/JStumpp/awesome-android
  - https://github.com/ashishb/android-security-awesome
@@ -562,10 +562,10 @@
  - https://github.com/AllThingsSmitty/css-protips
  - https://github.com/awesome-css-group/awesome-css
  
-#falsehood
+# falsehood
  - https://github.com/kdeldycke/awesome-falsehood
  
-#youtube
+# youtube
  - tech dummies
  - successintech
  - gauravsen
