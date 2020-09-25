@@ -1,4 +1,4 @@
-List of all kinds of interesting topics that i read around
+Some random links and topic over internet
 
 # Newsleters
  - https://data4sci.com/newsletter
@@ -29,8 +29,6 @@ List of all kinds of interesting topics that i read around
  - https://thestartuppitch.com/
  - https://techpluto.com/
  - https://startuplift.com/
- 
- 
  
 # new startup list finding platform
  - https://www.ycombinator.com/library
@@ -163,6 +161,7 @@ List of all kinds of interesting topics that i read around
  - https://github.com/avelino/awesome-go
  - https://github.com/tmrts/go-patterns
  - https://github.com/dariubs/GoBooks
+ - https://github.com/betty200744/ultimate-go
 
 # Interview
  - https://github.com/MaximAbramchuck/awesome-interview-questions
@@ -359,7 +358,7 @@ List of all kinds of interesting topics that i read around
  - https://github.com/KianiLab/Waskom_CurrBiol_2018
  - https://github.com/papers-we-love/papers-we-love
 
-# js
+# Javascript
  - https://www.30secondsofcode.org
  - https://github.com/ryanmcdermott/clean-code-javascript
  - https://github.com/elsewhencode/project-guidelines
@@ -371,6 +370,8 @@ List of all kinds of interesting topics that i read around
  - https://github.com/cezaraugusto/You-Dont-Know-JS
  - https://github.com/micromata/awesome-javascript-learning
  - https://github.com/sorrycc/awesome-javascript
+ - https://github.com/wbinnssmith/awesome-promises
+ - https://github.com/bolshchikov/js-must-watch
  
 # web-dev
  - https://github.com/davidsonfellipe/awesome-wpo
@@ -486,6 +487,9 @@ List of all kinds of interesting topics that i read around
  - https://github.com/mthenw/awesome-layers
  - https://github.com/donnemartin/awesome-aws
  
+# cloudfare
+ - https://github.com/irazasyed/awesome-cloudflare
+ 
 # go
  - https://github.com/hoanhan101/ultimate-go
  - https://github.com/campoy/justforfunc
@@ -532,14 +536,12 @@ List of all kinds of interesting topics that i read around
  - www.spoj.com
 
 
-
-
- 
 # util
  - https://diagrams.mingrammer.com
  - https://ihateregex.io
 
- 
+
+
 # problem
  - https://about.gitlab.com/2019/08/27/tyranny-of-the-clock/
 
@@ -674,6 +676,8 @@ List of all kinds of interesting topics that i read around
  - https://github.com/nebgnahz/awesome-iot-hacks
  - https://github.com/weblancaster/awesome-IoT-hybrid
  - https://github.com/vitalets/awesome-smart-tv
+ - https://github.com/agucova/awesome-esp
+ - https://github.com/adafruit/awesome-adafruitio
  
 # Editors
  - https://github.com/mehcode/awesome-atom
