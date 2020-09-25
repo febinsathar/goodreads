@@ -1,5 +1,8 @@
 #human knowledge
  - https://github.com/emijrp/all-human-knowledge
+
+# jobs
+ - https://github.com/t9tio/open-source-jobs
  
 # community
  - https://github.com/phpearth/awesome-community
@@ -13,6 +16,7 @@
 #newsleters
  - https://data4sci.com/newsletter
  - https://news.ycombinator.com/
+ 
  - https://github.com/trending
  - https://www.datasciencecentral.com/
 
@@ -63,11 +67,19 @@
  - https://github.com/stanzhai/be-a-professional-programmer
  - https://github.com/lk-geimfari/awesomo
  - https://github.com/shekhargulati/52-technologies-in-2016
+ - https://github.com/lyfeyaj/awesome-resources
+ - https://github.com/f2e-awesome/knowledge
+ - https://github.com/emptymalei/awesome-research
 
 
 #tools
  - https://github.com/iggredible/Learn-Vim
  - https://github.com/viatsko/awesome-vscode
+ - https://github.com/cjbarber/ToolsOfTheTrade
+ - https://github.com/toplap/awesome-livecoding
+ - https://github.com/aviaryan/awesome-no-login-web-apps
+ - https://github.com/humanetech-community/awesome-humane-tech
+ - https://github.com/rootsongjc/awesome-cloud-native
 
 #cs
  - https://github.com/ossu/computer-science
@@ -80,12 +92,14 @@
 
 #book
  - https://github.com/hackerkid/Mind-Expanding-Books
+ - https://github.com/zero-equals-false/awesome-programming-books
 
 #devops
  - https://github.com/n1trux/awesome-sysadmin
  - https://github.com/dastergon/awesome-sre
  - https://github.com/shuaibiyy/awesome-terraform
  - https://github.com/kahun/awesome-sysadmin
+ - https://github.com/networktocode/awesome-network-automation
  
 # design patterns
  - https://github.com/iluwatar/java-design-patterns
@@ -93,6 +107,7 @@
 # ui design
  - https://github.com/gztchan/awesome-design
  - https://github.com/neutraltone/awesome-stock-resources
+ - https://github.com/teoga/awesome-product-design
 
 # startup
  - https://www.ycombinator.com/library
@@ -124,7 +139,7 @@
  - https://github.com/MysteryVaibhav/leetcode_company_wise_questions
  - https://github.com/lnishan/awesome-competitive-programming
  - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
-
+ - https://github.com/jdsutton/Technical-Interview-Megarepo
 
 #algorithm
  - https://github.com/trekhleb/javascript-algorithms
@@ -146,6 +161,8 @@
  - https://github.com/williamfiset/Algorithms
  - https://github.com/a10h-bot/awesome-algorithms-books/blob/master/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
 
+# linux
+ - https://github.com/Friz-zy/awesome-linux-containers
 
 #security
  - https://github.com/veeral-patel/how-to-secure-anything
@@ -254,7 +271,11 @@
  - https://github.com/benedekrozemberczki/awesome-graph-classification
  - https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers
  - https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
- 
+ - https://github.com/weiaicunzai/awesome-image-classification
+ - https://github.com/EliotAndres/kaggle-past-solutions
+ - https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+ - https://github.com/fendouai/Awesome-TensorFlow-Chinese
+ - https://github.com/metrofun/machine-learning-surveys
  
 #DS application
  - https://github.com/nsfw-filter/nsfw-filter
@@ -271,6 +292,7 @@
 
 #spark
  - https://github.com/databricks/LearningSparkV2
+ - https://github.com/awesome-spark/awesome-spark
  
 #flink
  - https://github.com/zhisheng17/flink-learning
@@ -346,6 +368,7 @@
  - https://github.com/onurakpolat/awesome-bigdata
  - https://github.com/okhosting/awesome-storage/
  - https://github.com/youngwookim/awesome-hadoop
+ - https://github.com/rShetty/awesome-distributed-systems
  
 #grpc
  - https://github.com/grpc-ecosystem/awesome-grpc
@@ -394,6 +417,9 @@
  - https://github.com/sbilly/awesome-security
  - https://github.com/onlurking/awesome-infosec
  - https://github.com/qazbnm456/awesome-web-security
+ - https://github.com/0x4D31/awesome-threat-detection
+ - https://github.com/Lissy93/personal-security-checklist
+ - https://github.com/Escapingbug/awesome-browser-exploit
  
 #kubernetes
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
@@ -405,11 +431,13 @@
  
 # aws
  - https://github.com/alozano-77/AWS-SAA-C02-Course
+ - https://github.com/mthenw/awesome-layers
  
 # go
  - https://github.com/hoanhan101/ultimate-go
  - https://github.com/campoy/justforfunc
  - https://github.com/campoy/go-tooling-workshop
+ - https://github.com/hyper0x/awesome-go-China
 
 # cryptography
  - https://toc.cryptobook.us/
@@ -468,6 +496,7 @@
  - http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/
  - https://github.com/ellisonleao/magictools
  - https://github.com/godotengine/awesome-godot
+ - https://github.com/Calinou/awesome-gamedev
 
 
 # company tech blogs
@@ -490,6 +519,7 @@
  - https://github.com/JStumpp/awesome-android
  - https://github.com/ashishb/android-security-awesome
  - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
+ - https://github.com/vaib25vicky/awesome-mobile-security
 
 #css
  - https://github.com/AllThingsSmitty/css-protips
@@ -543,6 +573,8 @@
 # coding-style
  - https://github.com/Kristories/awesome-guidelines
  
+# nodejs 
+  - https://github.com/bnb/awesome-awesome-nodejs
  
 # webpack
  - https://github.com/webpack-contrib/awesome-webpack
@@ -571,6 +603,7 @@
  
 # GIS
  - https://github.com/sshuair/awesome-gis
+ - https://github.com/tmcw/awesome-geojson
  
 # apps
  - https://github.com/unicodeveloper/awesome-opensource-apps
@@ -583,6 +616,7 @@
  
 # iot
  - https://github.com/HQarroum/awesome-iot
+ - https://github.com/nebgnahz/awesome-iot-hacks
  
 # Editors
  - https://github.com/mehcode/awesome-atom
@@ -594,13 +628,33 @@
  - https://github.com/Hunter-Github/evil-and-not-wholly-awesome-firefox 
 
 
+# benchmark 
+ - https://github.com/denji/awesome-http-benchmark
+
+# erlang
+ - https://github.com/drobakowski/awesome-erlang
+ 
+# testing
+ - https://github.com/mojoaxel/awesome-regression-testing
+ 
+# robotics
+ - https://github.com/protontypes/awesome-robotic-tooling
+
+# quantum computing
+ - https://github.com/desireevl/awesome-quantum-computing
 
 
+# bio informatics
+ - https://github.com/danielecook/Awesome-Bioinformatics
+ 
+# speaking
+ - https://github.com/matteofigus/awesome-speaking
 
-
-
-
-
+# healthcare
+ - https://github.com/kakoni/awesome-healthcare
+ 
+# space
+ - https://github.com/orbitalindex/awesome-space
 
 
 
