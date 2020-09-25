@@ -6,6 +6,7 @@
 
 #math
  - https://yurichev.com/writings/Math-for-programmers.pdf
+ - https://github.com/rossant/awesome-math
 
 #basics of programming (novice)
  - https://htdp.org/2018-01-06/Book/part_one.html
@@ -27,6 +28,8 @@
  - https://github.com/EthicalML/awesome-production-machine-learning
 
 # general
+ - https://github.com/521xueweihan/HelloGitHub
+ - https://github.com/trimstray/the-book-of-secret-knowledge
  - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
  - https://github.com/tuvttran/project-based-learning
  - https://github.com/danistefanovic/build-your-own-x
@@ -37,35 +40,50 @@
  - https://github.com/EbookFoundation/free-programming-books
  - https://github.com/tuvtran/project-based-learning
  - https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
+ - https://github.com/ty4z2008/Qix
+ - https://github.com/dipakkr/A-to-Z-Resources-for-Students
+ - https://github.com/stanzhai/be-a-professional-programmer
+ - https://github.com/lk-geimfari/awesomo
+ - https://github.com/shekhargulati/52-technologies-in-2016
 
 
 #tools
  - https://github.com/iggredible/Learn-Vim
+ - https://github.com/viatsko/awesome-vscode
 
 #cs
  - https://github.com/ossu/computer-science
  - https://github.com/ForrestKnight/open-source-cs-python
+ - https://github.com/prakhar1989/awesome-courses
 
 
 #journey
  - https://github.com/jwasham/coding-interview-university#why-use-it
 
 #book
- - https://github.com/a10h-bot/awesome-algorithms-books/blob/master/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
+ - https://github.com/hackerkid/Mind-Expanding-Books
 
-
+#devops
+ - https://github.com/n1trux/awesome-sysadmin
+ - https://github.com/dastergon/awesome-sre
+ 
 # design patterns
  - https://github.com/iluwatar/java-design-patterns
 
-
+# ui design
+ - https://github.com/gztchan/awesome-design
+ - https://github.com/neutraltone/awesome-stock-resources
 
 # startup
  - https://www.ycombinator.com/library
  - https://www.joisig.com/rules-software-startup-minimum-hassle
+ - https://github.com/mmccaff/PlacesToPostYourStartup
 
 #go
  - https://github.com/hoanhan101/ultimate-go
  - https://github.com/avelino/awesome-go
+ - https://github.com/tmrts/go-patterns
+ - https://github.com/dariubs/GoBooks
 
 #interview
  - https://github.com/MaximAbramchuck/awesome-interview-questions
@@ -83,6 +101,8 @@
  - https://github.com/0voice/interview_internal_reference
  - https://github.com/hoanhan101/algo/blob/master/README.md
  - https://github.com/MysteryVaibhav/leetcode_company_wise_questions
+ - https://github.com/lnishan/awesome-competitive-programming
+ - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 
 #algorithm
@@ -103,6 +123,8 @@
  - https://github.com/azl397985856/leetcode
  - https://github.com/OpenGenus/cosmos
  - https://github.com/williamfiset/Algorithms
+ - https://github.com/a10h-bot/awesome-algorithms-books/blob/master/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
+
 
 #security
  - https://github.com/veeral-patel/how-to-secure-anything
@@ -119,6 +141,10 @@
  - https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
  - https://aosabook.org/en/index.html
  - https://github.com/prasadgujar/low-level-design-primer
+ - https://github.com/binhnguyennus/awesome-scalability
+ - https://github.com/alexpate/awesome-design-systems
+ - https://github.com/DovAmir/awesome-design-patterns
+ - https://github.com/mfornos/awesome-microservices
 
 
 #deep learning & DS
@@ -195,6 +221,9 @@
  - https://github.com/matterport/Mask_RCNN
  - https://github.com/snakers4/silero-models
  - https://github.com/microsoft/DeepSpeed
+ - https://github.com/ChristosChristofidis/awesome-deep-learning
+ - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+ - https://github.com/src-d/awesome-machine-learning-on-source-code
  
  
 #DS application
@@ -219,8 +248,10 @@
 #finance
  - https://github.com/hudson-and-thames/mlfinlab
  - https://github.com/QuantConnect/Lean
+ - https://github.com/wilsonfreitas/awesome-quant
 
-
+#frontend
+ - https://github.com/dypsilon/frontend-dev-bookmarks
 
 #neuro
  - https://github.com/NeuromatchAcademy/course-content
@@ -237,7 +268,15 @@
  - https://github.com/getify/You-Dont-Know-JS
  - https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
  - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+ 
+#web-dev
+ - https://github.com/davidsonfellipe/awesome-wpo
+ - https://github.com/ChromeDevTools/awesome-chrome-devtools
 
+
+#java
+ - https://github.com/akullpp/awesome-java
+ - https://github.com/Vedenin/useful-java-links
 
 #frontend
  - https://github.com/kbrsh/moon
@@ -246,6 +285,7 @@
  - https://github.com/ethereum/lahja
  - https://github.com/30-seconds/30-seconds-of-code
  - https://github.com/michalc/asyncio-buffered-pipeline
+ - https://github.com/humiaozuzu/awesome-flask
 
 
 #database
@@ -256,6 +296,7 @@
  
 #big data
  - https://github.com/taosdata/TDengine
+ - https://github.com/onurakpolat/awesome-bigdata
 
 
 
@@ -294,6 +335,9 @@
  - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
  - https://github.com/swisskyrepo/PayloadsAllTheThings
  - https://github.com/Hack-with-Github/Awesome-Hacking
+ - https://github.com/enaqx/awesome-pentest
+ - https://github.com/carpedm20/awesome-hacking
+ - https://github.com/hslatman/awesome-threat-intelligence
  
 #kubernetes
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
@@ -317,6 +361,8 @@
  - https://cryptobook.nakov.com/
  - https://github.com/Ciphey/Ciphey
 
+#crawler
+ - https://github.com/BruceDone/awesome-crawler
 
 
 #tips
@@ -339,6 +385,8 @@
 #sre
  - https://landing.google.com/sre/books/
 
+#scala
+ - https://github.com/lauris/awesome-scala
 
  
 #util
@@ -350,21 +398,36 @@
  - https://about.gitlab.com/2019/08/27/tyranny-of-the-clock/
 
 
-#gamedev
+#game-dev
  - http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/
+ - https://github.com/ellisonleao/magictools
 
 
 #company tech blogs
  - https://bytes.swiggy.com/?gi=208205a7cf5e
  - https://eng.uber.com/
 
+#react
+ - https://github.com/brillout/awesome-react-components
+ - https://github.com/xgrommx/awesome-redux
 
 #ui
  - https://overreacted.io/a-complete-guide-to-useeffect/
  - https://itnext.io/react-native-how-to-handle-an-app-with-both-pre-androidx-and-androidx-dependencies-rn60-bf4df7ea0dd2
  - https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI
+ - https://github.com/terkelg/awesome-creative-coding
 
+#android
+ - https://github.com/Freelander/Android_Data
+ - https://github.com/JStumpp/awesome-android
+ - https://github.com/ashishb/android-security-awesome
 
+#css
+ - https://github.com/AllThingsSmitty/css-protips
+ 
+#falsehood
+ - https://github.com/kdeldycke/awesome-falsehood
+ 
 #youtube
  - tech dummies
  - successintech
@@ -381,6 +444,31 @@
  - https://github.com/Uniswap/uniswap-interface
  
  
+#docker
+ - https://github.com/veggiemonk/awesome-docker
+ 
+#graphql
+ - https://github.com/chentsulin/awesome-graphql
+ 
+#raspberry pi
+ - https://github.com/thibmaek/awesome-raspberry-pi
+ 
+#streaming
+ - https://github.com/bnb/awesome-developer-streams
+ 
+ 
+#dd
+ - https://github.com/heynickc/awesome-ddd
+ 
+#web-assembly
+ - https://github.com/mbasso/awesome-wasm
+ 
+#coding-style
+ - https://github.com/Kristories/awesome-guidelines
+ 
+ 
+#webpack
+ - https://github.com/webpack-contrib/awesome-webpack
 sring
 trees
 linked list
