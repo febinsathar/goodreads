@@ -224,6 +224,7 @@
  - https://github.com/ChristosChristofidis/awesome-deep-learning
  - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
  - https://github.com/src-d/awesome-machine-learning-on-source-code
+ - https://github.com/r0f1/datascience
  
  
 #DS application
@@ -268,6 +269,8 @@
  - https://github.com/getify/You-Dont-Know-JS
  - https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
  - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+ - https://github.com/sindresorhus/awesome-npm
+ - https://github.com/cezaraugusto/You-Dont-Know-JS
  
 #web-dev
  - https://github.com/davidsonfellipe/awesome-wpo
@@ -277,6 +280,9 @@
 #java
  - https://github.com/akullpp/awesome-java
  - https://github.com/Vedenin/useful-java-links
+ 
+#spring-boot
+ - https://github.com/ityouknow/awesome-spring-boot
 
 #frontend
  - https://github.com/kbrsh/moon
@@ -297,6 +303,9 @@
 #big data
  - https://github.com/taosdata/TDengine
  - https://github.com/onurakpolat/awesome-bigdata
+ 
+#grpc
+ - https://github.com/grpc-ecosystem/awesome-grpc
 
 
 
@@ -347,29 +356,35 @@
 #python
  - https://github.com/satwikkansal/wtfpython
  
-#aws
+# aws
  - https://github.com/alozano-77/AWS-SAA-C02-Course
  
-#go
+# go
  - https://github.com/hoanhan101/ultimate-go
  - https://github.com/campoy/justforfunc
  - https://github.com/campoy/go-tooling-workshop
 
-#cryptography
+# cryptography
  - https://toc.cryptobook.us/
  - https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
  - https://cryptobook.nakov.com/
  - https://github.com/Ciphey/Ciphey
+ - https://github.com/sobolevn/awesome-cryptography
+ 
+# cryptocurrency
+ - https://github.com/Zheaoli/awesome-coins
+ - https://github.com/Xel/Blockchain-stuff
 
-#crawler
+# crawler
  - https://github.com/BruceDone/awesome-crawler
+ - https://github.com/lorien/awesome-web-scraping
 
 
-#tips
+# tips
  - https://hakibenita.com/fast-load-data-python-postgresql
 
 
-#practise site
+# practise site
  - https://leetcode.com/
  - https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
  - https://highscalability.com/
@@ -382,36 +397,36 @@
  - educative.io
  - www.spoj.com
 
-#sre
+# sre
  - https://landing.google.com/sre/books/
 
-#scala
+# scala
  - https://github.com/lauris/awesome-scala
 
  
-#util
+# util
  - https://diagrams.mingrammer.com
  - https://ihateregex.io
 
  
-#problem
+# problem
  - https://about.gitlab.com/2019/08/27/tyranny-of-the-clock/
 
 
-#game-dev
+# game-dev
  - http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/
  - https://github.com/ellisonleao/magictools
 
 
-#company tech blogs
+# company tech blogs
  - https://bytes.swiggy.com/?gi=208205a7cf5e
  - https://eng.uber.com/
 
-#react
+# react
  - https://github.com/brillout/awesome-react-components
  - https://github.com/xgrommx/awesome-redux
 
-#ui
+# ui
  - https://overreacted.io/a-complete-guide-to-useeffect/
  - https://itnext.io/react-native-how-to-handle-an-app-with-both-pre-androidx-and-androidx-dependencies-rn60-bf4df7ea0dd2
  - https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI
@@ -421,9 +436,11 @@
  - https://github.com/Freelander/Android_Data
  - https://github.com/JStumpp/awesome-android
  - https://github.com/ashishb/android-security-awesome
+ - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 
 #css
  - https://github.com/AllThingsSmitty/css-protips
+ - https://github.com/awesome-css-group/awesome-css
  
 #falsehood
  - https://github.com/kdeldycke/awesome-falsehood
@@ -448,6 +465,7 @@
  
 #docker
  - https://github.com/veggiemonk/awesome-docker
+ - https://github.com/docker/awesome-compose
  
 #graphql
  - https://github.com/chentsulin/awesome-graphql
@@ -471,6 +489,15 @@
  
 #webpack
  - https://github.com/webpack-contrib/awesome-webpack
+ 
+#code review
+ - https://github.com/joho/awesome-code-review
+ 
+#management
+ - https://github.com/LappleApple/awesome-leading-and-managing
+ 
+#electronics
+ - https://github.com/kitspace/awesome-electronics
  
  
 # unsorted
