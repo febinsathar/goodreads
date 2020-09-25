@@ -63,7 +63,6 @@ Some random links and topic over internet
  - https://github.com/tilde-lab/awesome-materials-informatics
 
 
-
 # Stack
  - https://github.com/stackshareio/awesome-stacks
  
@@ -184,6 +183,10 @@ Some random links and topic over internet
  - https://github.com/jdsutton/Technical-Interview-Megarepo
 
 # Algorithm
+ - https://github.com/passy/awesome-recursion-schemes
+ - https://github.com/enjalot/algovis
+ - https://github.com/gaerae/awesome-algorithms-education
+ - https://github.com/tayllan/awesome-algorithms
  - https://github.com/trekhleb/javascript-algorithms
  - https://github.com/TheAlgorithms/Java
  - https://github.com/TheAlgorithms/Javascript
@@ -208,6 +211,7 @@ Some random links and topic over internet
  - https://github.com/aleksandar-todorovic/awesome-linux
  - https://github.com/zoidbergwill/awesome-ebpf
  - https://github.com/PandaFoss/Awesome-Arch
+ - https://github.com/francoism90/awesome-kde
  
  
 # Security
@@ -233,6 +237,9 @@ Some random links and topic over internet
 
 
 # Deep learning & DS
+ - https://github.com/owainlewis/awesome-artificial-intelligence
+ - https://github.com/academic/awesome-datascience
+ - https://github.com/qinwf/awesome-R
  - https://dafriedman97.github.io/mlbook/content/introduction.html
  - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
  - https://github.com/mhagiwara/100-nlp-papers
@@ -254,7 +261,6 @@ Some random links and topic over internet
  - https://github.com/abhat222/Data-Science--Cheat-Sheet
  - https://github.com/google-research/google-research
  - https://github.com/meijieru/crnn.pytorch
- - https://github.com/academic/awesome-datascience
  - https://github.com/MrMimic/data-scientist-roadmap
  - https://github.com/mrdbourke/machine-learning-roadmap
  - https://github.com/ageron/handson-ml2
@@ -324,6 +330,7 @@ Some random links and topic over internet
  - https://github.com/fendouai/Awesome-TensorFlow-Chinese
  - https://github.com/metrofun/machine-learning-surveys
  - https://github.com/hoya012/awesome-anomaly-detection
+ - https://github.com/krzjoa/awesome-python-data-science
  
 # DS application
  - https://github.com/nsfw-filter/nsfw-filter
@@ -347,6 +354,7 @@ Some random links and topic over internet
  
 # ios
  - https://github.com/vsouza/awesome-ios
+ - https://github.com/matteocrippa/awesome-swift
 
 # frontend
  - https://github.com/dypsilon/frontend-dev-bookmarks
@@ -372,16 +380,34 @@ Some random links and topic over internet
  - https://github.com/sorrycc/awesome-javascript
  - https://github.com/wbinnssmith/awesome-promises
  - https://github.com/bolshchikov/js-must-watch
+ - https://github.com/loverajoel/jstips
+ - https://github.com/parro-it/awesome-micro-npm-packages
+ - https://github.com/feross/awesome-mad-science
+ - https://github.com/maxogden/maintenance-modules
+ - https://github.com/sindresorhus/awesome-npm
+ - https://github.com/avajs/awesome-ava
+ - https://github.com/Richienb/awesome-ponyfills
+ - https://github.com/30-seconds/30-seconds-of-code
+ - https://github.com/sindresorhus/awesome-observables
+ - https://github.com/stoeffel/awesome-fp-js
+ - https://github.com/dustinspecker/awesome-eslint
+ 
  
 # web-dev
  - https://github.com/davidsonfellipe/awesome-wpo
  - https://github.com/ChromeDevTools/awesome-chrome-devtools
  - https://github.com/marcobiedermann/search-engine-optimization
  - https://webdesign-inspiration.com/
+ - https://github.com/addyosmani/es6-tools
+ - https://github.com/lvwzhen/tools
+ - https://github.com/mateusortiz/webcomponents-the-right-way
+ - https://github.com/diegocard/awesome-html5
+ - https://github.com/willianjusten/awesome-svg
  
 
 # julia
  - https://github.com/melvin0008/awesome-julia
+ - https://github.com/svaksha/Julia.jl
  
 # perl
  - https://github.com/mackee/awesome-perl
@@ -392,9 +418,14 @@ Some random links and topic over internet
 #java
  - https://github.com/akullpp/awesome-java
  - https://github.com/Vedenin/useful-java-links
+ - https://github.com/eleventigers/awesome-rxjava
+ 
+# kotlin
+ - https://github.com/KotlinBy/awesome-kotlin
  
 # scala
  - https://github.com/lauris/awesome-scala
+ - https://github.com/tindzk/awesome-scala-native
  
 #spring-boot
  - https://github.com/ityouknow/awesome-spring-boot
@@ -404,11 +435,12 @@ Some random links and topic over internet
 
 # python
  - https://github.com/ethereum/lahja
- - https://github.com/30-seconds/30-seconds-of-code
  - https://github.com/michalc/asyncio-buffered-pipeline
  - https://github.com/humiaozuzu/awesome-flask
  - https://github.com/vinta/awesome-python
  - https://github.com/satwikkansal/wtfpython
+ - https://github.com/timofurrer/awesome-asyncio
+ - https://github.com/faroit/awesome-python-scientific-audio
 
 
 # database
@@ -561,6 +593,7 @@ Some random links and topic over internet
  - https://github.com/brillout/awesome-react-components
  - https://github.com/xgrommx/awesome-redux
  - https://github.com/enaqx/awesome-react
+ - https://github.com/glauberfc/awesome-react-hooks
 
 # ui
  - https://overreacted.io/a-complete-guide-to-useeffect/
@@ -578,6 +611,12 @@ Some random links and topic over internet
 # css
  - https://github.com/AllThingsSmitty/css-protips
  - https://github.com/awesome-css-group/awesome-css
+ - https://github.com/addyosmani/critical-path-css-tools
+ - https://github.com/davidtheclark/scalable-css-reading-list
+ - https://github.com/AllThingsSmitty/must-watch-css
+ - https://github.com/AllThingsSmitty/css-protips
+ - https://github.com/troxler/awesome-css-frameworks
+ 
  
 #falsehood
  - https://github.com/kdeldycke/awesome-falsehood
@@ -644,6 +683,8 @@ Some random links and topic over internet
  
 # electronics
  - https://github.com/kitspace/awesome-electronics
+ - https://github.com/adafruit/awesome-circuitpython
+ - https://github.com/mcauser/awesome-micropython
  
 # C
  - https://github.com/aleksandar-todorovic/awesome-c
@@ -678,6 +719,7 @@ Some random links and topic over internet
  - https://github.com/vitalets/awesome-smart-tv
  - https://github.com/agucova/awesome-esp
  - https://github.com/adafruit/awesome-adafruitio
+ - https://github.com/ohenley/awesome-ada
  
 # Editors
  - https://github.com/mehcode/awesome-atom
@@ -737,8 +779,14 @@ Some random links and topic over internet
 # IPFS
  - https://github.com/ipfs/awesome-ipfs
 
+# network
+ - https://github.com/Kikobeats/awesome-network-js
 
+# php
+ - https://github.com/ziadoz/awesome-php
 
+# talks
+ - https://github.com/JanVanRyswyck/awesome-talks
 
 
 
