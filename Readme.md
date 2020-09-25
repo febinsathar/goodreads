@@ -46,11 +46,11 @@ Some random links and topic over internet
  - https://getworm.com/
  
  
-# human knowledge
+# Human knowledge
  - https://github.com/emijrp/all-human-knowledge
  - https://julian.digital/2020/09/25/is-this-real-life/
 
-# jobs
+# Jobs
  - https://github.com/t9tio/open-source-jobs
  
 # Community
@@ -90,7 +90,7 @@ Some random links and topic over internet
  - https://github.com/NirantK/awesome-project-ideas
  - https://github.com/EthicalML/awesome-production-machine-learning
 
-# general
+# General
  - https://github.com/521xueweihan/HelloGitHub
  - https://github.com/trimstray/the-book-of-secret-knowledge
  - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
@@ -111,6 +111,7 @@ Some random links and topic over internet
  - https://github.com/lyfeyaj/awesome-resources
  - https://github.com/f2e-awesome/knowledge
  - https://github.com/emptymalei/awesome-research
+ - https://github.com/liuchong/awesome-roadmaps
 
 
 # Tools
@@ -121,13 +122,17 @@ Some random links and topic over internet
  - https://github.com/aviaryan/awesome-no-login-web-apps
  - https://github.com/humanetech-community/awesome-humane-tech
  - https://github.com/rootsongjc/awesome-cloud-native
+ - https://github.com/analysis-tools-dev/static-analysis
+ - https://github.com/ebertti/awesome-telegram
 
-# computer sciense
+# Computer Sciense
  - https://github.com/ossu/computer-science
  - https://github.com/ForrestKnight/open-source-cs-python
  - https://github.com/prakhar1989/awesome-courses
  - https://github.com/jwasham/coding-interview-university#why-use-it
  - https://github.com/watson/awesome-computer-history
+ - https://github.com/lucasviola/awesome-functional-programming
+ - https://github.com/dspinellis/awesome-msr
 
 # Books
  - https://github.com/hackerkid/Mind-Expanding-Books
@@ -140,6 +145,10 @@ Some random links and topic over internet
  - https://github.com/kahun/awesome-sysadmin
  - https://github.com/networktocode/awesome-network-automation
  - https://landing.google.com/sre/books/
+ - https://github.com/TaptuIT/awesome-devsecops
+ 
+# Nginx
+ - https://github.com/fcambus/nginx-resources
  
 # design patterns
  - https://github.com/iluwatar/java-design-patterns
@@ -214,10 +223,7 @@ Some random links and topic over internet
  - https://github.com/francoism90/awesome-kde
  
  
-# Security
- - https://github.com/veeral-patel/how-to-secure-anything
- - https://cve.mitre.org/cve/
- - https://github.com/zer0yu/Awesome-CobaltStrike
+
 
 
 # Computational thinking
@@ -331,12 +337,19 @@ Some random links and topic over internet
  - https://github.com/metrofun/machine-learning-surveys
  - https://github.com/hoya012/awesome-anomaly-detection
  - https://github.com/krzjoa/awesome-python-data-science
+ - https://github.com/siboehm/awesome-learn-datascience
+ - https://github.com/josephmisiti/awesome-machine-learning
+ - https://github.com/SE-ML/awesome-seml
+ - https://github.com/edobashira/speech-language-processing
+ - https://github.com/seriousran/awesome-qa
+ - https://github.com/kjw0612/awesome-deep-vision
+ - https://github.com/hangtwenty/dive-into-machine-learning
  
 # DS application
  - https://github.com/nsfw-filter/nsfw-filter
 
 
-#bots
+# Bots
  - https://github.com/hungtraan/FacebookBot
 
 
@@ -351,13 +364,13 @@ Some random links and topic over internet
  - https://github.com/hudson-and-thames/mlfinlab
  - https://github.com/QuantConnect/Lean
  - https://github.com/wilsonfreitas/awesome-quant
+ - https://github.com/georgezouq/awesome-ai-in-finance
+ - https://github.com/SamPom100/UnusualVolumeDetector
+ - https://github.com/tradytics/surpriver
  
-# ios
+# Ios
  - https://github.com/vsouza/awesome-ios
  - https://github.com/matteocrippa/awesome-swift
-
-# frontend
- - https://github.com/dypsilon/frontend-dev-bookmarks
 
 # neuro
  - https://github.com/NeuromatchAcademy/course-content
@@ -393,7 +406,7 @@ Some random links and topic over internet
  - https://github.com/dustinspecker/awesome-eslint
  
  
-# web-dev
+# Web Development
  - https://github.com/davidsonfellipe/awesome-wpo
  - https://github.com/ChromeDevTools/awesome-chrome-devtools
  - https://github.com/marcobiedermann/search-engine-optimization
@@ -403,35 +416,44 @@ Some random links and topic over internet
  - https://github.com/mateusortiz/webcomponents-the-right-way
  - https://github.com/diegocard/awesome-html5
  - https://github.com/willianjusten/awesome-svg
+ - https://github.com/pazguille/offline-first
+ - https://github.com/kbrsh/moon
+ - https://github.com/TalAter/awesome-progressive-web-apps
+ - https://github.com/jbmoelker/progressive-enhancement-resources
+ - https://github.com/myshov/awesome-mobile-web-development
+ - https://github.com/pajaydev/awesome-web-performance-budget
+ - https://github.com/componently-com/awesome-building-blocks-for-web-apps
+ - https://github.com/dypsilon/frontend-dev-bookmarks
  
+# Web browser
+ - https://github.com/Hunter-Github/evil-and-not-wholly-awesome-firefox 
+ - https://github.com/fregante/Awesome-WebExtensions
 
-# julia
+
+# Julia
  - https://github.com/melvin0008/awesome-julia
  - https://github.com/svaksha/Julia.jl
  
-# perl
+# Perl
  - https://github.com/mackee/awesome-perl
  
-# jvm
+# Jvm
  - https://github.com/deephacks/awesome-jvm
  
-#java
+# Java
  - https://github.com/akullpp/awesome-java
  - https://github.com/Vedenin/useful-java-links
  - https://github.com/eleventigers/awesome-rxjava
  
-# kotlin
+# Kotlin
  - https://github.com/KotlinBy/awesome-kotlin
  
-# scala
+# Scala
  - https://github.com/lauris/awesome-scala
  - https://github.com/tindzk/awesome-scala-native
  
-#spring-boot
+# Spring-boot
  - https://github.com/ityouknow/awesome-spring-boot
-
-#frontend
- - https://github.com/kbrsh/moon
 
 # python
  - https://github.com/ethereum/lahja
@@ -443,7 +465,7 @@ Some random links and topic over internet
  - https://github.com/faroit/awesome-python-scientific-audio
 
 
-# database
+# Database
  - https://github.com/pingcap/awesome-database-learning
  - https://github.com/pingcap/talent-plan
  - https://github.com/orbitdb/orbit-db
@@ -451,47 +473,46 @@ Some random links and topic over internet
  - https://github.com/pingcap/talent-plan
  - https://github.com/ramnes/awesome-mongodb
  - https://thedataguy.in/internals-of-google-cloud-spanner/
+ - https://github.com/numetriclabz/awesome-db
+ - https://github.com/softwarebycl/awesome-contexture
+ - https://github.com/mgramin/awesome-db-tools
  
-# big data
+ 
+# Elastic search
+ - https://medium.com/hipages-engineering/scaling-elasticsearch-b63fa400ee9e
+ 
+# Big data
+ - https://github.com/manuzhang/awesome-streaming
+ - https://github.com/igorbarinov/awesome-data-engineering
  - https://github.com/taosdata/TDengine
  - https://github.com/onurakpolat/awesome-bigdata
  - https://github.com/okhosting/awesome-storage/
  - https://github.com/youngwookim/awesome-hadoop
  - https://github.com/rShetty/awesome-distributed-systems
-  - https://github.com/heathermiller/dist-prog-book
-  - https://medium.com/@hydraconference/the-big-interview-with-martin-kleppmann-figuring-out-the-future-of-distributed-data-systems-28a680d99ae6
+ - https://github.com/heathermiller/dist-prog-book
+ - https://medium.com/@hydraconference/the-big-interview-with-martin-kleppmann-figuring-out-the-future-of-distributed-data-systems-28a680d99ae6
  
  
-# grpc
+# Grpc
  - https://github.com/grpc-ecosystem/awesome-grpc
 
 
-# data uscase
+# Data uscase
  - https://github.com/jetnew/COVID-Resource-Allocation-Simulator/blob/master/README.md
 
 
 
 
-# webrtc
+# Webrtc
  - https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
 
-# stock
- - https://github.com/SamPom100/UnusualVolumeDetector
- - https://github.com/tradytics/surpriver
 
 
 
-
-# test
- - https://github.com/intuit/karate
- - https://martinfowler.com/articles/practical-test-pyramid.html
-
-
-
-# shell
+# Shell
  - https://github.com/jlevy/the-art-of-command-line
 
-# hacking
+# Hacking
  - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
  - https://github.com/swisskyrepo/PayloadsAllTheThings
  - https://github.com/Hack-with-Github/Awesome-Hacking
@@ -499,20 +520,34 @@ Some random links and topic over internet
  - https://github.com/carpedm20/awesome-hacking
  - https://github.com/hslatman/awesome-threat-intelligence
  - https://github.com/coreb1t/awesome-pentest-cheat-sheets
- - https://github.com/sbilly/awesome-security
  - https://github.com/onlurking/awesome-infosec
  - https://github.com/qazbnm456/awesome-web-security
  - https://github.com/0x4D31/awesome-threat-detection
  - https://github.com/Lissy93/personal-security-checklist
  - https://github.com/Escapingbug/awesome-browser-exploit
+ - https://github.com/paralax/awesome-honeypots
+ - https://github.com/meirwah/awesome-incident-response
+ - https://github.com/jaredthecoder/awesome-vehicle-security
+ - https://github.com/fabacab/awesome-lockpicking
  
-# kubernetes
+# Security
+ - https://github.com/veeral-patel/how-to-secure-anything
+ - https://cve.mitre.org/cve/
+ - https://github.com/zer0yu/Awesome-CobaltStrike
+ - https://github.com/paragonie/awesome-appsec
+ - https://github.com/sbilly/awesome-security
+ - https://github.com/apsdehal/awesome-ctf
+ - https://github.com/rshipp/awesome-malware-analysis
+ - https://github.com/fabacab/awesome-cybersecurity-blueteam
+ 
+# Kubernetes
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
  - https://github.com/ContainerSolutions/kubernetes-examples
  - https://itnext.io/linkerd-or-istio-2e3ce781fa3a
  - https://github.com/helm/charts/tree/master/incubator
  - https://k8syaml.com/
  - https://www.infoq.com/articles/kubernetes-operators-in-depth/
+ - https://github.com/ramitsurana/awesome-kubernetes
  
 # aws
  - https://github.com/alozano-77/AWS-SAA-C02-Course
@@ -536,11 +571,13 @@ Some random links and topic over internet
  - https://github.com/Ciphey/Ciphey
  - https://github.com/sobolevn/awesome-cryptography
  - https://github.com/pFarb/awesome-crypto-papers
+ - https://github.com/Uniswap/uniswap-interface
  
 # cryptocurrency
  - https://github.com/Zheaoli/awesome-coins
  - https://github.com/Xel/Blockchain-stuff
  - https://github.com/kasketis/awesome-cryptocurrencies
+ - https://github.com/Uniswap/uniswap-interface
 
 # crawler
  - https://github.com/BruceDone/awesome-crawler
@@ -568,40 +605,35 @@ Some random links and topic over internet
  - www.spoj.com
 
 
-# util
- - https://diagrams.mingrammer.com
- - https://ihateregex.io
-
-
-
-# problem
+# Problem
  - https://about.gitlab.com/2019/08/27/tyranny-of-the-clock/
 
 
-# game-dev
+# Game-dev
  - http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/
  - https://github.com/ellisonleao/magictools
  - https://github.com/godotengine/awesome-godot
  - https://github.com/Calinou/awesome-gamedev
+ - https://github.com/vinjn/awesome-vulkan
 
 
-# company tech blogs
+# Company tech blogs
  - https://bytes.swiggy.com/?gi=208205a7cf5e
  - https://eng.uber.com/
 
-# react
+# React
  - https://github.com/brillout/awesome-react-components
  - https://github.com/xgrommx/awesome-redux
  - https://github.com/enaqx/awesome-react
  - https://github.com/glauberfc/awesome-react-hooks
 
-# ui
+# UI/UX
  - https://overreacted.io/a-complete-guide-to-useeffect/
  - https://itnext.io/react-native-how-to-handle-an-app-with-both-pre-androidx-and-androidx-dependencies-rn60-bf4df7ea0dd2
  - https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI
  - https://github.com/terkelg/awesome-creative-coding
 
-#android
+# Android
  - https://github.com/Freelander/Android_Data
  - https://github.com/JStumpp/awesome-android
  - https://github.com/ashishb/android-security-awesome
@@ -618,10 +650,10 @@ Some random links and topic over internet
  - https://github.com/troxler/awesome-css-frameworks
  
  
-#falsehood
+# Falsehood
  - https://github.com/kdeldycke/awesome-falsehood
  
-#youtube
+# Youtube
  - tech dummies
  - successintech
  - gauravsen
@@ -634,13 +666,11 @@ Some random links and topic over internet
  - https://github.com/fendouai/Awesome-Chatbot
  
  
-# problems
+# Problems
  - https://www.spoj.com/problems/AGGRCOW/
 
 
-# crpto
- - https://github.com/Uniswap/uniswap-interface
- 
+
  
 # docker
  - https://github.com/veggiemonk/awesome-docker
@@ -685,6 +715,7 @@ Some random links and topic over internet
  - https://github.com/kitspace/awesome-electronics
  - https://github.com/adafruit/awesome-circuitpython
  - https://github.com/mcauser/awesome-micropython
+ - https://github.com/beardicus/awesome-plotters
  
 # C
  - https://github.com/aleksandar-todorovic/awesome-c
@@ -693,7 +724,7 @@ Some random links and topic over internet
 # C++ 
  - https://github.com/fffaraz/awesome-cpp
  
-# webGL
+# WebGL
  - https://github.com/luruke/awesome-casestudy
  
 # elixar
@@ -706,13 +737,14 @@ Some random links and topic over internet
 # apps
  - https://github.com/unicodeveloper/awesome-opensource-apps
  
+ 
 #shell
  - https://github.com/alebcay/awesome-shell
  
-# rest
+# Rest
  - https://github.com/marmelab/awesome-rest
  
-# iot
+# Iot
  - https://github.com/HQarroum/awesome-iot
  - https://github.com/nebgnahz/awesome-iot-hacks
  - https://github.com/weblancaster/awesome-IoT-hybrid
@@ -727,32 +759,32 @@ Some random links and topic over internet
  - https://github.com/akrawchyk/awesome-vim
  - https://github.com/viatsko/awesome-vscode
  
-# Web browser
- - https://github.com/Hunter-Github/evil-and-not-wholly-awesome-firefox 
- - https://github.com/fregante/Awesome-WebExtensions
 
 
-# benchmark 
+# Benchmark 
  - https://github.com/denji/awesome-http-benchmark
 
-# erlang
+# Erlang
  - https://github.com/drobakowski/awesome-erlang
  
-# testing
+# Testing
  - https://github.com/mojoaxel/awesome-regression-testing
+ - https://github.com/intuit/karate
+ - https://martinfowler.com/articles/practical-test-pyramid.html
  
-# robotics
+# Robotics
  - https://github.com/protontypes/awesome-robotic-tooling
  - https://github.com/fkromer/awesome-ros2
+ - https://github.com/Kiloreux/awesome-robotics
 
-# quantum computing
+# Quantum computing
  - https://github.com/desireevl/awesome-quantum-computing
 
 
-# bio informatics
+# Bio informatics
  - https://github.com/danielecook/Awesome-Bioinformatics
  
-# speaking
+# Speaking
  - https://github.com/matteofigus/awesome-speaking
 
 # healthcare
@@ -760,11 +792,11 @@ Some random links and topic over internet
  
 # Space
  - https://github.com/orbitalindex/awesome-space
+
+# Serverless
+ - https://github.com/pmuens/awesome-serverless
  
-# elastic search
- - https://medium.com/hipages-engineering/scaling-elasticsearch-b63fa400ee9e
- 
-# graphing
+# Graph building
  - https://github.com/ucg8j/awesome-dash
  
 # Electron
@@ -779,23 +811,27 @@ Some random links and topic over internet
 # IPFS
  - https://github.com/ipfs/awesome-ipfs
 
-# network
+# Network
  - https://github.com/Kikobeats/awesome-network-js
 
-# php
+# PHP
  - https://github.com/ziadoz/awesome-php
 
-# talks
+# Talks
  - https://github.com/JanVanRyswyck/awesome-talks
 
+# Search Engine
+ - https://github.com/harpribot/awesome-information-retrieval
 
-
-
-
-
-
+# Business
+ - https://github.com/opencompany/awesome-open-company
  
  
+# MISC
+ - https://diagrams.mingrammer.com
+ - https://ihateregex.io
+ 
+
 
 
 
