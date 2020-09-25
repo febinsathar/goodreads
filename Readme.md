@@ -1,3 +1,5 @@
+List of all kinds of interesting topics that i read around
+
 # Newsleters
  - https://data4sci.com/newsletter
  - https://news.ycombinator.com/
@@ -202,9 +204,13 @@
  - https://github.com/williamfiset/Algorithms
  - https://github.com/a10h-bot/awesome-algorithms-books/blob/master/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf
 
-# linux
+# Linux
  - https://github.com/Friz-zy/awesome-linux-containers
-
+ - https://github.com/aleksandar-todorovic/awesome-linux
+ - https://github.com/zoidbergwill/awesome-ebpf
+ - https://github.com/PandaFoss/Awesome-Arch
+ 
+ 
 # Security
  - https://github.com/veeral-patel/how-to-secure-anything
  - https://cve.mitre.org/cve/
@@ -379,9 +385,15 @@
 # perl
  - https://github.com/mackee/awesome-perl
  
+# jvm
+ - https://github.com/deephacks/awesome-jvm
+ 
 #java
  - https://github.com/akullpp/awesome-java
  - https://github.com/Vedenin/useful-java-links
+ 
+# scala
+ - https://github.com/lauris/awesome-scala
  
 #spring-boot
  - https://github.com/ityouknow/awesome-spring-boot
@@ -472,6 +484,7 @@
 # aws
  - https://github.com/alozano-77/AWS-SAA-C02-Course
  - https://github.com/mthenw/awesome-layers
+ - https://github.com/donnemartin/awesome-aws
  
 # go
  - https://github.com/hoanhan101/ultimate-go
@@ -519,8 +532,7 @@
  - www.spoj.com
 
 
-# scala
- - https://github.com/lauris/awesome-scala
+
 
  
 # util
@@ -661,6 +673,7 @@
  - https://github.com/HQarroum/awesome-iot
  - https://github.com/nebgnahz/awesome-iot-hacks
  - https://github.com/weblancaster/awesome-IoT-hybrid
+ - https://github.com/vitalets/awesome-smart-tv
  
 # Editors
  - https://github.com/mehcode/awesome-atom
@@ -668,8 +681,9 @@
  - https://github.com/akrawchyk/awesome-vim
  - https://github.com/viatsko/awesome-vscode
  
-# browser
+# Web browser
  - https://github.com/Hunter-Github/evil-and-not-wholly-awesome-firefox 
+ - https://github.com/fregante/Awesome-WebExtensions
 
 
 # benchmark 
@@ -683,6 +697,7 @@
  
 # robotics
  - https://github.com/protontypes/awesome-robotic-tooling
+ - https://github.com/fkromer/awesome-ros2
 
 # quantum computing
  - https://github.com/desireevl/awesome-quantum-computing
@@ -705,9 +720,18 @@
  
 # graphing
  - https://github.com/ucg8j/awesome-dash
+ 
+# Electron
+ - https://github.com/sindresorhus/awesome-electron
 
+# React Native 
+ - https://github.com/jondot/awesome-react-native
+ 
+# Flutter
+ - https://github.com/Solido/awesome-flutter
 
-
+# IPFS
+ - https://github.com/ipfs/awesome-ipfs
 
 
 
