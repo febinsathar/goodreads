@@ -4,48 +4,45 @@
 # jobs
  - https://github.com/t9tio/open-source-jobs
  
-# community
+# Community
  - https://github.com/phpearth/awesome-community
  
-# sciense
+# Sciense
  - https://github.com/Hunter-Github/awesome-space-books
  - https://github.com/elburz/awesome-space
  - https://github.com/ipudu/awesome-molecular-dynamics
  - https://github.com/tilde-lab/awesome-materials-informatics
 
-#newsleters
+# Newsleters
  - https://data4sci.com/newsletter
  - https://news.ycombinator.com/
- 
  - https://github.com/trending
  - https://www.datasciencecentral.com/
 
-#stack
+# Stack
  - https://github.com/stackshareio/awesome-stacks
  
-# history
- - https://github.com/watson/awesome-computer-history
 
-#math
+# Math
  - https://yurichev.com/writings/Math-for-programmers.pdf
  - https://github.com/rossant/awesome-math
 
-#basics of programming (novice)
+# Basics of programming (novice)
  - https://htdp.org/2018-01-06/Book/part_one.html
 
-#awesome list
+# Awesome list
  - https://github.com/sindresorhus/awesome
  - https://github.com/bayandin/awesome-awesomeness
 
 
-#probablity
+# Probablity
  - https://projects.iq.harvard.edu/stat110/home
  - http://data4sci.com/landing/probability
  
-#free
+# Free
  - https://github.com/ripienaar/free-for-dev
 
-#ideas
+# Ideas
  - https://github.com/NirantK/awesome-project-ideas
  - https://github.com/EthicalML/awesome-production-machine-learning
 
@@ -72,7 +69,7 @@
  - https://github.com/emptymalei/awesome-research
 
 
-#tools
+# Tools
  - https://github.com/iggredible/Learn-Vim
  - https://github.com/viatsko/awesome-vscode
  - https://github.com/cjbarber/ToolsOfTheTrade
@@ -85,16 +82,14 @@
  - https://github.com/ossu/computer-science
  - https://github.com/ForrestKnight/open-source-cs-python
  - https://github.com/prakhar1989/awesome-courses
-
-
-#journey
  - https://github.com/jwasham/coding-interview-university#why-use-it
+ - https://github.com/watson/awesome-computer-history
 
-#book
+# Books
  - https://github.com/hackerkid/Mind-Expanding-Books
  - https://github.com/zero-equals-false/awesome-programming-books
 
-#devops
+# Devops
  - https://github.com/n1trux/awesome-sysadmin
  - https://github.com/dastergon/awesome-sre
  - https://github.com/shuaibiyy/awesome-terraform
@@ -115,13 +110,13 @@
  - https://github.com/mmccaff/PlacesToPostYourStartup
  - https://github.com/dakshshah96/awesome-startup-credits
 
-#go
+# Go
  - https://github.com/hoanhan101/ultimate-go
  - https://github.com/avelino/awesome-go
  - https://github.com/tmrts/go-patterns
  - https://github.com/dariubs/GoBooks
 
-#interview
+# Interview
  - https://github.com/MaximAbramchuck/awesome-interview-questions
  - https://github.com/Advanced-Frontend/Daily-Interview-Question
  - https://github.com/mission-peace/interview
@@ -141,7 +136,7 @@
  - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
  - https://github.com/jdsutton/Technical-Interview-Megarepo
 
-#algorithm
+# Algorithm
  - https://github.com/trekhleb/javascript-algorithms
  - https://github.com/TheAlgorithms/Java
  - https://github.com/TheAlgorithms/Javascript
@@ -164,15 +159,15 @@
 # linux
  - https://github.com/Friz-zy/awesome-linux-containers
 
-#security
+# Security
  - https://github.com/veeral-patel/how-to-secure-anything
  - https://cve.mitre.org/cve/
 
 
-# computational thinking
+# Computational thinking
  - https://github.com/mitmath/18S191 (https://mitmath.github.io/18S191/Fall20/)
 
-#system design
+# System design
  - https://github.com/qiurunze123/miaosha
  - https://github.com/donnemartin/system-design-primer/blob/master/README.md
  - http://highscalability.com/
@@ -185,7 +180,7 @@
  - https://github.com/mfornos/awesome-microservices
 
 
-#deep learning & DS
+# Deep learning & DS
  - https://dafriedman97.github.io/mlbook/content/introduction.html
  - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
  - https://github.com/mhagiwara/100-nlp-papers
@@ -277,7 +272,7 @@
  - https://github.com/fendouai/Awesome-TensorFlow-Chinese
  - https://github.com/metrofun/machine-learning-surveys
  
-#DS application
+# DS application
  - https://github.com/nsfw-filter/nsfw-filter
 
 
@@ -285,34 +280,29 @@
  - https://github.com/hungtraan/FacebookBot
 
 
-#kubes
- - https://github.com/helm/charts/tree/master/incubator
- - https://k8syaml.com/
-
-
-#spark
+# spark
  - https://github.com/databricks/LearningSparkV2
  - https://github.com/awesome-spark/awesome-spark
  
-#flink
+# flink
  - https://github.com/zhisheng17/flink-learning
 
-#finance
+# finance
  - https://github.com/hudson-and-thames/mlfinlab
  - https://github.com/QuantConnect/Lean
  - https://github.com/wilsonfreitas/awesome-quant
 
-#frontend
+# frontend
  - https://github.com/dypsilon/frontend-dev-bookmarks
 
-#neuro
+# neuro
  - https://github.com/NeuromatchAcademy/course-content
 
-#paper
+# paper
  - https://github.com/KianiLab/Waskom_CurrBiol_2018
  - https://github.com/papers-we-love/papers-we-love
 
-#js
+# js
  - https://www.30secondsofcode.org
  - https://github.com/ryanmcdermott/clean-code-javascript
  - https://github.com/elsewhencode/project-guidelines
@@ -325,7 +315,7 @@
  - https://github.com/micromata/awesome-javascript-learning
  - https://github.com/sorrycc/awesome-javascript
  
-#web-dev
+# web-dev
  - https://github.com/davidsonfellipe/awesome-wpo
  - https://github.com/ChromeDevTools/awesome-chrome-devtools
  - https://github.com/marcobiedermann/search-engine-optimization
@@ -347,15 +337,16 @@
 #frontend
  - https://github.com/kbrsh/moon
 
-#python
+# python
  - https://github.com/ethereum/lahja
  - https://github.com/30-seconds/30-seconds-of-code
  - https://github.com/michalc/asyncio-buffered-pipeline
  - https://github.com/humiaozuzu/awesome-flask
  - https://github.com/vinta/awesome-python
+ - https://github.com/satwikkansal/wtfpython
 
 
-#database
+# database
  - https://github.com/pingcap/awesome-database-learning
  - https://github.com/pingcap/talent-plan
  - https://github.com/orbitdb/orbit-db
@@ -363,19 +354,18 @@
  - https://github.com/pingcap/talent-plan
  - https://github.com/ramnes/awesome-mongodb
  
-#big data
+# big data
  - https://github.com/taosdata/TDengine
  - https://github.com/onurakpolat/awesome-bigdata
  - https://github.com/okhosting/awesome-storage/
  - https://github.com/youngwookim/awesome-hadoop
  - https://github.com/rShetty/awesome-distributed-systems
  
-#grpc
+# grpc
  - https://github.com/grpc-ecosystem/awesome-grpc
 
 
-
-#data uscase
+# data uscase
  - https://github.com/jetnew/COVID-Resource-Allocation-Simulator/blob/master/README.md
 
 
@@ -387,26 +377,26 @@
 
 
 
-#webrtc
+# webrtc
  - https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
 
-#stock
+# stock
  - https://github.com/SamPom100/UnusualVolumeDetector
  - https://github.com/tradytics/surpriver
 
 
 
 
-#test
+# test
  - https://github.com/intuit/karate
  - https://martinfowler.com/articles/practical-test-pyramid.html
 
 
 
-#shell
+# shell
  - https://github.com/jlevy/the-art-of-command-line
 
-#hacking
+# hacking
  - https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
  - https://github.com/swisskyrepo/PayloadsAllTheThings
  - https://github.com/Hack-with-Github/Awesome-Hacking
@@ -421,13 +411,12 @@
  - https://github.com/Lissy93/personal-security-checklist
  - https://github.com/Escapingbug/awesome-browser-exploit
  
-#kubernetes
+# kubernetes
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
  - https://github.com/ContainerSolutions/kubernetes-examples
  - https://itnext.io/linkerd-or-istio-2e3ce781fa3a
-
-#python
- - https://github.com/satwikkansal/wtfpython
+  - https://github.com/helm/charts/tree/master/incubator
+  - https://k8syaml.com/
  
 # aws
  - https://github.com/alozano-77/AWS-SAA-C02-Course
@@ -521,7 +510,7 @@
  - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
  - https://github.com/vaib25vicky/awesome-mobile-security
 
-#css
+# css
  - https://github.com/AllThingsSmitty/css-protips
  - https://github.com/awesome-css-group/awesome-css
  
@@ -540,7 +529,7 @@
  - https://github.com/fendouai/Awesome-Chatbot
  
  
-#problems
+# problems
  - https://www.spoj.com/problems/AGGRCOW/
 
 
@@ -653,7 +642,7 @@
 # healthcare
  - https://github.com/kakoni/awesome-healthcare
  
-# space
+# Sgit pace
  - https://github.com/orbitalindex/awesome-space
 
 
