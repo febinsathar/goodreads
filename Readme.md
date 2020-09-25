@@ -78,7 +78,7 @@
  - https://github.com/humanetech-community/awesome-humane-tech
  - https://github.com/rootsongjc/awesome-cloud-native
 
-#cs
+# computer sciense
  - https://github.com/ossu/computer-science
  - https://github.com/ForrestKnight/open-source-cs-python
  - https://github.com/prakhar1989/awesome-courses
@@ -415,8 +415,9 @@
  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
  - https://github.com/ContainerSolutions/kubernetes-examples
  - https://itnext.io/linkerd-or-istio-2e3ce781fa3a
-  - https://github.com/helm/charts/tree/master/incubator
-  - https://k8syaml.com/
+ - https://github.com/helm/charts/tree/master/incubator
+ - https://k8syaml.com/
+ - https://www.infoq.com/articles/kubernetes-operators-in-depth/
  
 # aws
  - https://github.com/alozano-77/AWS-SAA-C02-Course
@@ -524,6 +525,7 @@
  - tusharroy
  - abdulbari
  - https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw
+ - https://blog.codegiant.io/programming-skills-d77d4abdf255
 
 # chatbot
  - https://github.com/fendouai/Awesome-Chatbot
@@ -642,7 +644,7 @@
 # healthcare
  - https://github.com/kakoni/awesome-healthcare
  
-# Sgit pace
+# Space
  - https://github.com/orbitalindex/awesome-space
 
 
