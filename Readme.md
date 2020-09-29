@@ -62,7 +62,9 @@ Some random links and topic over internet
  - https://github.com/ipudu/awesome-molecular-dynamics
  - https://github.com/tilde-lab/awesome-materials-informatics
 
-
+# Free
+ - https://github.com/ripienaar/free-for-dev
+ 
 # Stack
  - https://github.com/stackshareio/awesome-stacks
  
@@ -77,14 +79,14 @@ Some random links and topic over internet
 # Awesome list
  - https://github.com/sindresorhus/awesome
  - https://github.com/bayandin/awesome-awesomeness
+ - https://github.com/yanhan/reading-list
 
 
 # Probablity
  - https://projects.iq.harvard.edu/stat110/home
  - http://data4sci.com/landing/probability
  
-# Free
- - https://github.com/ripienaar/free-for-dev
+
 
 # Ideas
  - https://github.com/NirantK/awesome-project-ideas
@@ -615,6 +617,7 @@ Some random links and topic over internet
  - https://github.com/godotengine/awesome-godot
  - https://github.com/Calinou/awesome-gamedev
  - https://github.com/vinjn/awesome-vulkan
+ - https://github.com/timi-liuliang/echo
 
 
 # Company tech blogs
@@ -622,6 +625,7 @@ Some random links and topic over internet
  - https://eng.uber.com/
 
 # React
+ - https://www.reactnextboilerplate.com/
  - https://github.com/brillout/awesome-react-components
  - https://github.com/xgrommx/awesome-redux
  - https://github.com/enaqx/awesome-react
