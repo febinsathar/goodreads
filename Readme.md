@@ -245,6 +245,7 @@ Some random links and topic over internet
 
 
 # Deep learning & DS
+ - https://github.com/zacharywhitley/awesome-ocr
  - https://github.com/owainlewis/awesome-artificial-intelligence
  - https://github.com/academic/awesome-datascience
  - https://github.com/qinwf/awesome-R
