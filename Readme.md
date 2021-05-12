@@ -347,6 +347,7 @@ Some random links and topic over internet
  - https://github.com/seriousran/awesome-qa
  - https://github.com/kjw0612/awesome-deep-vision
  - https://github.com/hangtwenty/dive-into-machine-learning
+ - https://peizhuoli.github.io/neural-blend-shapes/
  
 # DS application
  - https://github.com/nsfw-filter/nsfw-filter
