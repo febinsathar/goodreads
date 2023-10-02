@@ -1,6 +1,7 @@
 Some random links and topic over internet
 
 https://github.com/practical-tutorials/project-based-learning
+https://github.com/TheAlgorithms/Java
 
 # Newsleters
  - https://data4sci.com/newsletter
