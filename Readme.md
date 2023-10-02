@@ -1,5 +1,7 @@
 Some random links and topic over internet
 
+https://github.com/practical-tutorials/project-based-learning
+
 # Newsleters
  - https://data4sci.com/newsletter
  - https://news.ycombinator.com/
